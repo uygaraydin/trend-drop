@@ -16,7 +16,7 @@ const plexMono = IBM_Plex_Mono({
 
 export const metadata: Metadata = {
   title: "TrendDrop",
-  description: "Weekly fashion trend intelligence.",
+  description: "Haftalık moda trend istihbaratı.",
 };
 
 export default function RootLayout({
