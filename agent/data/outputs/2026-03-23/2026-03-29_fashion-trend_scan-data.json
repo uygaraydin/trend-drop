@@ -1,0 +1,87 @@
+{
+  "date": "2026-03-29",
+  "sources_scanned": [
+    "Zara",
+    "H&M",
+    "Mango",
+    "TikTok",
+    "Pinterest",
+    "Google Trends",
+    "Who What Wear",
+    "Complex",
+    "Hypebeast"
+  ],
+  "sources_failed": [],
+  "signals": [
+    {
+      "name": "Dantel / Lace Detayları",
+      "source": "H&M, Pinterest, WWW, Runway",
+      "category": "Üst giyim, Aksesuar",
+      "color": "—",
+      "strength": "strong"
+    },
+    {
+      "name": "Cesur Renkler",
+      "source": "WWW, TikTok, Pinterest, H&M, Mango",
+      "category": "Tüm",
+      "color": "Kırmızı, Mavi, Pembe, Sarı, Yeşil",
+      "strength": "strong"
+    },
+    {
+      "name": "Broş & Vintage Aksesuarlar",
+      "source": "Pinterest, TikTok, Hypebeast",
+      "category": "Aksesuar",
+      "color": "—",
+      "strength": "strong"
+    },
+    {
+      "name": "Bootcut & Cigarette Denim",
+      "source": "Zara, H&M, WWW, Google Trends",
+      "category": "Alt giyim",
+      "color": "Denim tonları",
+      "strength": "strong"
+    },
+    {
+      "name": "Katmanlı Görünümler",
+      "source": "TikTok, Pinterest, H&M, Mango",
+      "category": "Üst/Dış giyim",
+      "color": "—",
+      "strength": "strong"
+    },
+    {
+      "name": "Utility / Safari Stili",
+      "source": "Pinterest, Dior, Chloé, WWW",
+      "category": "Dış/Alt giyim",
+      "color": "Haki, Krem, Karamel",
+      "strength": "strong"
+    },
+    {
+      "name": "İpek Eşarp Yeni Kullanımlar",
+      "source": "WWW, Pinterest, Marie Claire",
+      "category": "Aksesuar",
+      "color": "Çoklu",
+      "strength": "medium"
+    },
+    {
+      "name": "Poet-Core Estetiği",
+      "source": "Pinterest, Google Trends",
+      "category": "Üst/Dış giyim",
+      "color": "Kahverengi tonlar",
+      "strength": "weak"
+    },
+    {
+      "name": "80'ler Glamoratti",
+      "source": "Pinterest, H&M",
+      "category": "Tüm",
+      "color": "Metalik",
+      "strength": "weak"
+    },
+    {
+      "name": "Polka Dot / Puantiye",
+      "source": "Zara, Google Trends, WWW",
+      "category": "Üst giyim, Elbise",
+      "color": "Siyah-beyaz",
+      "strength": "medium"
+    }
+  ]
+}

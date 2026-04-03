@@ -1,0 +1,181 @@
+{
+  "date": "2026-03-30",
+  "sources_scanned": [
+    "Zara",
+    "H&M",
+    "Who What Wear"
+  ],
+  "sources_failed": [
+    "Bershka (404)"
+  ],
+  "signals": [
+    {
+      "name": "Dore Düğmeli Blazer",
+      "source": "Zara",
+      "category": "Outerwear",
+      "color": "Lacivert",
+      "strength": "strong"
+    },
+    {
+      "name": "Kemerli Trenç Ceket",
+      "source": "Zara",
+      "category": "Outerwear",
+      "color": "Bej",
+      "strength": "strong"
+    },
+    {
+      "name": "Püsküllü Mini Triko Elbise",
+      "source": "Zara",
+      "category": "Dresses",
+      "color": "Ekru",
+      "strength": "medium"
+    },
+    {
+      "name": "Kapri Orta Bel Jean",
+      "source": "Zara",
+      "category": "Bottoms",
+      "color": "Siyah",
+      "strength": "medium"
+    },
+    {
+      "name": "Dantel Midi Etek",
+      "source": "Zara",
+      "category": "Bottoms",
+      "color": "Kemik",
+      "strength": "medium"
+    },
+    {
+      "name": "Suni Deri Balon Ceket",
+      "source": "Zara",
+      "category": "Outerwear",
+      "color": "Siyah",
+      "strength": "medium"
+    },
+    {
+      "name": "Pens Detaylı Geniş Paça Jean",
+      "source": "Zara",
+      "category": "Bottoms",
+      "color": "Açık mavi",
+      "strength": "medium"
+    },
+    {
+      "name": "Balon Kesim Kısa Gömlek",
+      "source": "Zara",
+      "category": "Tops",
+      "color": "Açık mavi / Beyaz",
+      "strength": "strong"
+    },
+    {
+      "name": "Kemerli Geniş Paça Pantolon",
+      "source": "Zara",
+      "category": "Bottoms",
+      "color": "Taba",
+      "strength": "medium"
+    },
+    {
+      "name": "Kontrast Biyeli T-Shirt",
+      "source": "Zara",
+      "category": "Tops",
+      "color": "Bej / Kirli-beyaz",
+      "strength": "strong"
+    },
+    {
+      "name": "Vatkılı Oversize Kruvaze Blazer",
+      "source": "Zara",
+      "category": "Outerwear",
+      "color": "Beyaz",
+      "strength": "medium"
+    },
+    {
+      "name": "Safari Kıvrık Kollu Bluz",
+      "source": "Zara",
+      "category": "Tops",
+      "color": "Beyaz / Siyah",
+      "strength": "strong"
+    },
+    {
+      "name": "Geniş Şık Pantolon",
+      "source": "H&M",
+      "category": "Bottoms",
+      "color": "Çoklu",
+      "strength": "strong"
+    },
+    {
+      "name": "Keten Karışımlı Şık Blazer",
+      "source": "H&M",
+      "category": "Outerwear",
+      "color": "Koyu toprak",
+      "strength": "medium"
+    },
+    {
+      "name": "Keten Karışımlı Barrel Pantolon",
+      "source": "H&M",
+      "category": "Bottoms",
+      "color": "Beyaz",
+      "strength": "medium"
+    },
+    {
+      "name": "Keten Karışımlı Dantel Elbise",
+      "source": "H&M",
+      "category": "Dresses",
+      "color": "Siyah",
+      "strength": "medium"
+    },
+    {
+      "name": "Keten Karışımlı Oversize Gömlek",
+      "source": "H&M",
+      "category": "Tops",
+      "color": "Beyaz",
+      "strength": "medium"
+    },
+    {
+      "name": "Tığ İşi Görünümlü Bluz",
+      "source": "H&M",
+      "category": "Tops",
+      "color": "Siyah",
+      "strength": "medium"
+    },
+    {
+      "name": "Kot Maksi Elbise",
+      "source": "H&M",
+      "category": "Dresses",
+      "color": "Çoklu",
+      "strength": "medium"
+    },
+    {
+      "name": "Peplumlu Kot Ceket",
+      "source": "H&M",
+      "category": "Outerwear",
+      "color": "Kot mavisi",
+      "strength": "medium"
+    },
+    {
+      "name": "Baggy Regular Waist Jeans",
+      "source": "H&M",
+      "category": "Bottoms",
+      "color": "Çoklu",
+      "strength": "medium"
+    },
+    {
+      "name": "Cropped Flares Trend",
+      "source": "Who What Wear",
+      "category": "Bottoms",
+      "color": "—",
+      "strength": "medium"
+    },
+    {
+      "name": "Sportif Chic Aesthetic",
+      "source": "Who What Wear",
+      "category": "Style",
+      "color": "—",
+      "strength": "weak"
+    },
+    {
+      "name": "Western Style Revival",
+      "source": "Who What Wear",
+      "category": "Style",
+      "color": "—",
+      "strength": "weak"
+    }
+  ]
+}

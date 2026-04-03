@@ -1,0 +1,260 @@
+{
+  "date": "2026-03-30",
+  "trends": [
+    {
+      "rank": 1,
+      "name": "Wide-Leg Pants Domination",
+      "category": "Bottoms",
+      "lifecycle": "Peak",
+      "score": 9.2,
+      "source_count": 3,
+      "what": "Wide-leg pants in every fabric — linen, satin, denim, tailored. Geniş paça is the default silhouette for Spring 2026.",
+      "why_now": "Post-skinny era is fully established. Comfort-meets-elegance is the dominant aesthetic. Both fast fashion (Zara, H&M) and editorial sources confirm this as the baseline pant shape.",
+      "how": [
+        "Pair with a fitted blazer for smart-casual balance",
+        "Cropped top + wide-leg linen pant for effortless summer look",
+        "Platform sandals to elongate the silhouette"
+      ],
+      "sources": [
+        "Zara",
+        "H&M",
+        "Who What Wear"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Structured Blazer Renaissance",
+      "category": "Outerwear",
+      "lifecycle": "Peak",
+      "score": 8.8,
+      "source_count": 2,
+      "what": "Tailored blazers in navy with gold buttons, white oversize kruvaze, and linen-blend options. The blazer is the Spring 2026 jacket.",
+      "why_now": "Smart-casual dressing is mainstream. The blazer bridges casual and dressed-up, fitting the 'quiet luxury' aesthetic that Gen Z adopted from TikTok.",
+      "how": [
+        "Navy blazer + white wide-leg pants for classic polish",
+        "White oversize blazer as a dress alternative",
+        "Linen blazer + bermuda for warm-weather tailoring"
+      ],
+      "sources": [
+        "Zara",
+        "H&M"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Linen Everything",
+      "category": "Fabric",
+      "lifecycle": "Rising",
+      "score": 8.5,
+      "source_count": 2,
+      "what": "Linen-blend blazers, pants, shirts, and dresses dominating new arrivals. The texture of Spring 2026.",
+      "why_now": "Sustainability awareness meets summer practicality. Linen signals effortless European style that Gen Z aspires to.",
+      "how": [
+        "Full linen suit (blazer + barrel pant) for maximum impact",
+        "Linen oversize shirt as beach-to-city transition piece",
+        "Mix linen textures (shirt + pant) for tonal dressing"
+      ],
+      "sources": [
+        "Zara",
+        "H&M"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Warm Neutrals Palette",
+      "category": "Color",
+      "lifecycle": "Peak",
+      "score": 8.3,
+      "source_count": 3,
+      "what": "Ekru, bej, krem, devetüyü — warm neutrals are the dominant color family across all sources.",
+      "why_now": "Clean girl aesthetic evolution. 'Quiet luxury' influence filtered down to fast fashion. Neutrals photograph well for Instagram/TikTok content.",
+      "how": [
+        "Head-to-toe neutral for Clean Girl / Old Money aesthetic",
+        "Use texture contrast (satin + linen) when going monochrome",
+        "Add one accent color (red, yellow) to avoid looking washed out"
+      ],
+      "sources": [
+        "Zara",
+        "H&M",
+        "Who What Wear"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Balloon & Volume Silhouettes",
+      "category": "Silhouette",
+      "lifecycle": "Rising",
+      "score": 7.9,
+      "source_count": 2,
+      "what": "Balloon sleeves, balloon-cut shirts, puffed silhouettes in both tops and outerwear. Volume is the new fitted.",
+      "why_now": "Dramatic silhouettes stand out on social media. It's a shift from bodycon toward statement dressing.",
+      "how": [
+        "Balloon sleeve top + slim bottom for proportion balance",
+        "Balon kesim gömlek tucked into high-waist pants",
+        "Layer balloon jacket over minimal basics"
+      ],
+      "sources": [
+        "Zara",
+        "H&M"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Lace & Crochet Details",
+      "category": "Detail",
+      "lifecycle": "Rising",
+      "score": 7.6,
+      "source_count": 2,
+      "what": "Dantel midi etekler, tığ işi bluzlar, nakış detayları — artisanal handcraft touches on modern silhouettes.",
+      "why_now": "Romantic/feminine aesthetic is resurging. Crochet went from boho niche to mainstream fast fashion.",
+      "how": [
+        "Dantel midi etek + simple tee for contrast",
+        "Crochet top + tailored pants for unexpected pairing",
+        "Layer lace details under blazer for peek-through texture"
+      ],
+      "sources": [
+        "Zara",
+        "H&M"
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "Denim Evolution",
+      "category": "Bottoms/Dresses",
+      "lifecycle": "Peak",
+      "score": 7.5,
+      "source_count": 2,
+      "what": "Beyond jeans: denim maxi dresses, peplum denim jackets, embroidered denim. Plus new jean silhouettes: kapri, barrel, baggy.",
+      "why_now": "Denim is perpetual but the forms are evolving. The denim dress and peplum jacket signal denim as a 'fabric for everything' moment.",
+      "how": [
+        "Denim maxi dress as a one-piece statement",
+        "Peplum denim jacket over a summer dress",
+        "Mix denim washes for a modern double-denim look"
+      ],
+      "sources": [
+        "Zara",
+        "H&M"
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "Cropped Flares Comeback",
+      "category": "Bottoms",
+      "lifecycle": "Rising",
+      "score": 7.2,
+      "source_count": 2,
+      "what": "Cropped flare pants making a return with modern styling to avoid looking dated.",
+      "why_now": "Cyclical trend revival. Wide-leg fatigue creates demand for new bottom silhouettes. WWW editorial validation.",
+      "how": [
+        "Platform shoes are essential with cropped flares",
+        "Keep the top slim and tucked to modernize the look",
+        "Choose high-waist version for a flattering fit"
+      ],
+      "sources": [
+        "Zara (kapri jean)",
+        "Who What Wear"
+      ]
+    },
+    {
+      "rank": 9,
+      "name": "Sportif Chic Aesthetic",
+      "category": "Style",
+      "lifecycle": "Rising",
+      "score": 6.8,
+      "source_count": 1,
+      "what": "Athletic-inspired pieces styled in a polished way — the NYC/LA It aesthetic for Spring 2026.",
+      "why_now": "Post-athleisure evolution. The sporty look gets dressed up instead of being purely casual.",
+      "how": [
+        "Track-inspired pants + blazer",
+        "Sneakers with tailored pieces",
+        "Sport-luxe accessories (caps, athletic bags) with feminine outfits"
+      ],
+      "sources": [
+        "Who What Wear"
+      ]
+    },
+    {
+      "rank": 10,
+      "name": "Peplum Revival",
+      "category": "Detail",
+      "lifecycle": "Rising",
+      "score": 6.5,
+      "source_count": 1,
+      "what": "Peplum details on denim jackets and shirts. A 2010s trend returning with a modern twist.",
+      "why_now": "Cyclical fashion revival. The waist-defining silhouette appeals to both feminine and structured aesthetics.",
+      "how": [
+        "Peplum denim jacket over simple dress",
+        "Peplum top tucked slightly for modern proportion",
+        "Keep the rest of the outfit minimal"
+      ],
+      "sources": [
+        "H&M"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "name": "Ekru / Krem",
+      "status": "Peak",
+      "where": "Full outfits, especially pants and blazers",
+      "combo": "Ekru + taba, ekru + lacivert, all-ekru monochrome"
+    },
+    {
+      "name": "Beyaz",
+      "status": "Peak",
+      "where": "Blazers, pants, shirts — the clean canvas",
+      "combo": "Beyaz + mavi çizgili, beyaz + denim"
+    },
+    {
+      "name": "Açık Mavi",
+      "status": "Stable",
+      "where": "Denim, gömlekler, balon kesim tops",
+      "combo": "Açık mavi + beyaz, açık mavi + ekru"
+    },
+    {
+      "name": "Taba / Toprak Rengi",
+      "status": "Rising",
+      "where": "Pants, blazers, earthy styling",
+      "combo": "Taba + krem, taba + beyaz for euro-chic"
+    },
+    {
+      "name": "Pembe",
+      "status": "Stable",
+      "where": "Accent color — dresses, dantel details",
+      "combo": "Pembe + beyaz, pembe + ekru for soft feminine look"
+    },
+    {
+      "name": "Kırmızı / Mercan",
+      "status": "Rising",
+      "where": "Statement pieces — tops, dresses",
+      "combo": "Kırmızı + siyah classic, kırmızı + lacivert for bold"
+    }
+  ],
+  "watch_list": [
+    {
+      "name": "Western Style Revival",
+      "source": "Who What Wear",
+      "reason": "Editorial push for boots, fringe, western-inspired pieces. Could hit fast fashion in 1-2 months."
+    },
+    {
+      "name": "Cummerbund as Accessory",
+      "source": "Who What Wear / Valentino F/W 26",
+      "reason": "Runway signal from major house. If adopted by influencers, could become viral accessory."
+    },
+    {
+      "name": "Barrel Pants",
+      "source": "H&M",
+      "reason": "New silhouette — wider at thigh, tapered at ankle. Could be the next wide-leg evolution."
+    },
+    {
+      "name": "Vintage Print Patterns (Pucci-style)",
+      "source": "Who What Wear",
+      "reason": "Print trend replacing last year's vintage obsession. Watch for fast fashion adoption."
+    },
+    {
+      "name": "Color Clashing / Maximalism",
+      "source": "Who What Wear",
+      "reason": "Counter-trend to neutrals dominance. Could appeal to Gen Z's desire to stand out."
+    }
+  ]
+}

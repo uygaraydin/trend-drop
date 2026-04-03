@@ -10,7 +10,7 @@ import os
 import re
 import glob as globmod
 
-AGENTS_OUTPUT = os.path.join(os.path.dirname(__file__), "..", "agents", "fashion-trend-agent", "data", "outputs")
+AGENTS_OUTPUT = os.path.join(os.path.dirname(__file__), "agent", "data", "outputs")
 SITE_DIR = os.path.dirname(__file__)
 
 

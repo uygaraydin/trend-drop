@@ -1,0 +1,54 @@
+name: Weekly Trend Update
+
+on:
+  schedule:
+    # Her Pazartesi 09:00 UTC (Türkiye 12:00)
+    - cron: '0 9 * * 1'
+  workflow_dispatch: # Manuel tetikleme
+
+permissions:
+  contents: write
+
+jobs:
+  run-agent:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Claude Code
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Install Playwright
+        run: npx playwright install chromium --with-deps
+
+      - name: Run Agent Pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          cd agent
+          claude-code --print "AGENT.md dosyasını oku ve sırasıyla tüm skill'leri çalıştır: WEB_TREND_SCANNING → TREND_ANALYSIS → REPORT_GENERATION → TREND_INTELLIGENCE. Bugünün tarihi: $(date +%Y-%m-%d). Çıktıları data/outputs/ altına yaz."
+
+      - name: Build report.json
+        run: python3 build.py
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/lib/report.json agent/data/outputs/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "weekly update: $(date +%Y-%m-%d)"
+            git push
+          fi

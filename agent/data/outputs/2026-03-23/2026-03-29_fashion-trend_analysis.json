@@ -1,0 +1,256 @@
+{
+  "date": "2026-03-29",
+  "trends": [
+    {
+      "rank": 1,
+      "name": "Cesur Renkler & Renk Patlaması",
+      "category": "Tüm",
+      "lifecycle": "Yükselen",
+      "score": 9.2,
+      "source_count": 6,
+      "what": "Quiet luxury'nin nötr paletinin yerini alan canlı, cesur renkler. Tek renk bloklar ve beklenmedik renk eşleşmeleri.",
+      "why_now": "2024-2025'in minimal bej/gri döngüsü tükendi. Tüketici eğlenceli giyinmek istiyor.",
+      "how": [
+        "Tek bir statement parça (kırmızı çanta, buz mavisi pantolon)",
+        "Ton-sür-ton monokrom (tüm pembe, tüm mavi)",
+        "Beklenmedik renk eşleşmeleri (yeşil + pembe, mavi + kırmızı)"
+      ],
+      "sources": [
+        "Who What Wear",
+        "Pinterest",
+        "TikTok",
+        "H&M",
+        "Mango",
+        "Zara"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Dantel / Lace Detayları",
+      "category": "Üst giyim, Aksesuar",
+      "lifecycle": "Yükselen",
+      "score": 8.7,
+      "source_count": 5,
+      "what": "Dantel artık sadece romantik parçalarda değil. Bomber ceketlerde, kemerlerde, tığ işi şapkalarda sürpriz detay.",
+      "why_now": "Katmanlı giyinme trendi danteli dekoratif detay olarak yeniden keşfetti.",
+      "how": [
+        "Slip etek + dantel kenar + triko kombinasyonu",
+        "Dantel detaylı bomber ceket casual altlarla",
+        "Şeffaf dantel katman blazer altında"
+      ],
+      "sources": [
+        "H&M",
+        "Pinterest",
+        "Who What Wear",
+        "Runway"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Bootcut & Cigarette Denim",
+      "category": "Alt giyim",
+      "lifecycle": "Yükselen",
+      "score": 8.5,
+      "source_count": 5,
+      "what": "Skinny jean tamamen devre dışı. Bootcut, cigarette fit ve barrel-leg denim tüm kaynaklarda dominant.",
+      "why_now": "Denim silüet döngüsü wide-leg'den yapılandırılmış kesimlere döndü.",
+      "how": [
+        "Bootcut + platform bot klasik 70'ler silüeti",
+        "Cigarette fit + loafer modern minimalizm",
+        "Barrel-leg + crop top yeni nesil denim look"
+      ],
+      "sources": [
+        "Zara",
+        "H&M",
+        "Who What Wear",
+        "Google Trends",
+        "Complex"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Katmanlı Görünümler (Layering)",
+      "category": "Üst/Dış giyim",
+      "lifecycle": "Zirve",
+      "score": 8.3,
+      "source_count": 4,
+      "what": "Bilinçli katmanlama — her katman kasıtlı olarak görünür. Kısa trençkot ve trench cape yeni hero parçalar.",
+      "why_now": "Mevsim geçişi layering'i zorunlu kılıyor, bu sezon estetik odaklı.",
+      "how": [
+        "Camisole + blazer + trençkot üçlü katman",
+        "Yelek üzerine oversize gömlek",
+        "Crop trençkot + midi etek"
+      ],
+      "sources": [
+        "TikTok",
+        "Pinterest",
+        "H&M",
+        "Mango"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Utility / Safari Stili",
+      "category": "Dış/Alt giyim",
+      "lifecycle": "Yükselen",
+      "score": 8.0,
+      "source_count": 4,
+      "what": "Askeri ceket, cargo pantolon, safari gömlek. Fonksiyonel ama şık utility estetik.",
+      "why_now": "Pinterest'te adventure-ready dressing aramaları patlıyor. Dior ve Chloé podyumlarından güçlü sinyal.",
+      "how": [
+        "Cargo pantolon + fitted top",
+        "Askeri ceket + elbise kontrast",
+        "Haki-krem-karamel palet"
+      ],
+      "sources": [
+        "Pinterest",
+        "Dior",
+        "Chloé",
+        "Who What Wear"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "İpek Eşarp (Yeni Kullanımlar)",
+      "category": "Aksesuar",
+      "lifecycle": "Yükselen",
+      "score": 7.8,
+      "source_count": 3,
+      "what": "İpek eşarp boyun aksesuarından çıkıp halter top, çanta aksesuarı ve patchwork etek oldu.",
+      "why_now": "Versatilite mesajı güçlü — tek parça, çoklu kullanım.",
+      "how": [
+        "Eşarpı halter top olarak bağla",
+        "Çantaya aksesuar olarak sar",
+        "Kemer yerine belde kullan"
+      ],
+      "sources": [
+        "Who What Wear",
+        "Pinterest",
+        "Marie Claire"
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "Broş & Vintage Aksesuarlar",
+      "category": "Aksesuar",
+      "lifecycle": "Yükselen",
+      "score": 7.5,
+      "source_count": 3,
+      "what": "Kristal broş, vintage pin, heirloom tarzı takılar. Maximalism rüzgarının aksesuara yansıması.",
+      "why_now": "Pinterest'te heirloom jewelry aramaları %120 arttı.",
+      "how": [
+        "Kristal broş blazer yakasına",
+        "Vintage pin koleksiyon şeklinde",
+        "Büyük broş minimalist kıyafetin tek statement'ı"
+      ],
+      "sources": [
+        "Pinterest",
+        "TikTok",
+        "Hypebeast"
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "Poet-Core Estetiği",
+      "category": "Üst/Dış giyim",
+      "lifecycle": "Yükselen",
+      "score": 7.3,
+      "source_count": 2,
+      "what": "Dark/Light Academia'nın evrimi. Oversized balıkçı yaka, vintage blazer, katmanlı romantik estetik.",
+      "why_now": "Pinterest'te %175 arama artışı. Gen Z'nin entelektüel estetik arayışı.",
+      "how": [
+        "Oversized balıkçı yaka + tailored pantolon",
+        "Vintage blazer + poet gömlek",
+        "Katmanlı kahverengi tonlar"
+      ],
+      "sources": [
+        "Pinterest",
+        "Google Trends"
+      ]
+    },
+    {
+      "rank": 9,
+      "name": "80'ler Glamoratti",
+      "category": "Tüm",
+      "lifecycle": "Yükselen",
+      "score": 7.0,
+      "source_count": 2,
+      "what": "Sculpted omuz ceketler, power dressing, dramatik silüetler. Quiet luxury'nin antitezi.",
+      "why_now": "Pinterest 2026 trend ilanı + H&M koleksiyonunda omuz detayları.",
+      "how": [
+        "Omuz detaylı blazer + slim pantolon",
+        "Funnel-neck ceket tek başına statement",
+        "Metalik aksesuar ile 80'ler dokunuşu"
+      ],
+      "sources": [
+        "Pinterest",
+        "H&M"
+      ]
+    },
+    {
+      "rank": 10,
+      "name": "Polka Dot / Puantiye",
+      "category": "Üst giyim, Elbise",
+      "lifecycle": "Geri Dönüş",
+      "score": 6.8,
+      "source_count": 3,
+      "what": "Retro puantiye deseni modern kesimlerle yeniden hayat buluyor. Zara sezonun anahtar deseni olarak konumlandırıyor.",
+      "why_now": "Google Trends arama artışı + Zara'nın büyük puantiye yatırımı.",
+      "how": [
+        "Puantiye midi etek + solid üst",
+        "Puantiye gömlek + denim",
+        "Mini puantiye desen büyük puantiyeden daha modern"
+      ],
+      "sources": [
+        "Zara",
+        "Google Trends",
+        "Who What Wear"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "name": "Domates Kırmızısı",
+      "status": "Zirve",
+      "where": "Statement parça, aksesuar",
+      "combo": "Krem veya siyah ile"
+    },
+    {
+      "name": "Buz Mavisi",
+      "status": "Yükselen",
+      "where": "Pantolon, elbise, ceket",
+      "combo": "Beyaz veya gri ile"
+    },
+    {
+      "name": "Pastel Pembe",
+      "status": "Zirve",
+      "where": "Tüm parçalar, ton-sür-ton",
+      "combo": "Kendi tonları veya krem ile"
+    },
+    {
+      "name": "Tereyağı Sarısı",
+      "status": "Yükselen",
+      "where": "Üst giyim, ceket, aksesuar",
+      "combo": "Denim veya beyaz ile"
+    },
+    {
+      "name": "Limon Yeşili",
+      "status": "Yükselen",
+      "where": "Aksesuar, statement parça",
+      "combo": "Siyah veya lacivert ile"
+    },
+    {
+      "name": "Çikolata Kahve",
+      "status": "Stabil",
+      "where": "Dış giyim, pantolon",
+      "combo": "Krem veya bej ile"
+    },
+    {
+      "name": "Mor Tonları",
+      "status": "Yükselen",
+      "where": "Elbise, üst giyim",
+      "combo": "Gri veya siyah ile"
+    }
+  ],
+  "watch_list": []
+}
