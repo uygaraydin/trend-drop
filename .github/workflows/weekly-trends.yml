@@ -36,7 +36,7 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           cd agent
-          claude-code --print "AGENT.md dosyasını oku ve sırasıyla tüm skill'leri çalıştır: WEB_TREND_SCANNING → TREND_ANALYSIS → REPORT_GENERATION → TREND_INTELLIGENCE. Bugünün tarihi: $(date +%Y-%m-%d). Çıktıları data/outputs/ altına yaz."
+          claude --print --dangerously-skip-permissions "AGENT.md dosyasını oku ve sırasıyla tüm skill'leri çalıştır: WEB_TREND_SCANNING → TREND_ANALYSIS → REPORT_GENERATION → TREND_INTELLIGENCE. Bugünün tarihi: $(date +%Y-%m-%d). Çıktıları data/outputs/ altına yaz."
 
       - name: Build report.json
         run: python3 build.py
