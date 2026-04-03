@@ -46,6 +46,16 @@ Scan fashion websites, social platforms, and blogs using Playwright MCP to colle
    - Elle → https://www.elle.com/fashion/ (mainstream trend)
    - Tagwalk → https://www.tagwalk.com (runway trends)
 
+### Tier 5 — Every scan (genel web araması)
+   Sabit sitelere ek olarak, her taramada aşağıdaki aramaları yap:
+   - "fashion trends 2026 spring summer"
+   - "gen z fashion trends this week"
+   - "streetwear trends 2026"
+   - "color trends fashion 2026"
+   - "fabric trends 2026"
+
+   Bu aramalar sabit sitelerde olmayan sinyalleri yakalar — yeni bloglar, editöryel içerikler, sosyal medya analizleri. Sonuçlardan ilk 5-10 bağlantıyı aç ve tara.
+
 ### Fallback Strategy
    - If a site returns 403/timeout → use WebSearch to find editor articles analyzing that site
    - If inaccessible for 2+ consecutive scans → note in MEMORY.md, demote from tier
@@ -82,7 +92,8 @@ Scan fashion websites, social platforms, and blogs using Playwright MCP to colle
 
 ## Tools
 - **Playwright MCP** — web browsing, page reading, screenshots
-- Web search (for Google Trends data)
+- **WebSearch** — genel internet araması (Tier 5 + fallback)
+- **WebFetch** — sayfa içeriği çekme (fallback)
 
 ## Integration
 - Output → feeds into **TREND_ANALYSIS**

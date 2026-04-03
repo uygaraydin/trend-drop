@@ -10,7 +10,7 @@ Haftalık moda trend istihbarat platformu. AI agent her hafta moda kaynakların�
 
 TrendDrop, moda dünyasındaki trendleri otomatik olarak takip eden bir sistemdir:
 
-- Zara, H&M, Who What Wear gibi kaynakları tarar
+- Zara, H&M, Who What Wear gibi siteleri + genel web araması ile tarar
 - Trendleri skorlar ve sıralar (top 10)
 - Renk ve kumaş trendlerini çıkarır
 - Her trende momentum, risk ve aksiyon analizi ekler
