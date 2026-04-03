@@ -1,60 +1,60 @@
 # TrendDrop
 
-Haftalik moda trend istihbarat platformu. AI agent her hafta moda kaynaklarini tarayip analiz eder, sonuclari otomatik olarak web sitesinde yayinlar.
+Haftalık moda trend istihbarat platformu. AI agent her hafta moda kaynaklarını tarayıp analiz eder, sonuçları otomatik olarak web sitesinde yayınlar.
 
-**Canli Site:** https://site-next-gold.vercel.app/
+**Canlı Site:** https://site-next-gold.vercel.app/
 
 ---
 
 ## Ne Yapar?
 
-TrendDrop, moda dunyasindaki trendleri otomatik olarak takip eden bir sistemdir:
+TrendDrop, moda dünyasındaki trendleri otomatik olarak takip eden bir sistemdir:
 
-- Zara, H&M, Who What Wear gibi kaynaklari tarar
-- Trendleri skorlar ve siralar (top 10)
-- Renk ve kumas trendlerini cikarir
+- Zara, H&M, Who What Wear gibi kaynakları tarar
+- Trendleri skorlar ve sıralar (top 10)
+- Renk ve kumaş trendlerini çıkarır
 - Her trende momentum, risk ve aksiyon analizi ekler
-- Sonuclari haftalik olarak web sitesinde yayinlar
+- Sonuçları haftalık olarak web sitesinde yayınlar
 
-Hedef kitle: Turkiye'deki Gen Z moda takipcileri.
+Hedef kitle: Türkiye'deki Gen Z moda takipçileri.
 
 ---
 
-## Nasil Calisir?
+## Nasıl Çalışır?
 
 ```
 Her Pazartesi 12:00 (TR)
     |
     v
-GitHub Actions baslar
+GitHub Actions başlar
     |
     v
-Claude Code, agent'i calistirir (4 skill sirayla)
+Claude Code, agent'ı çalıştırır (4 skill sırayla)
     |
     v
-build.py --> report.json uretir
+build.py → report.json üretir
     |
     v
-git push --> Vercel otomatik deploy
+git push → Vercel otomatik deploy
     |
     v
-Site guncellenir
+Site güncellenir
 ```
 
 ---
 
 ## Agent Pipeline
 
-Agent 4 skill'den olusur, sirayla calisir:
+Agent 4 skill'den oluşur, sırayla çalışır:
 
-| Sira | Skill | Ne Yapar |
+| Sıra | Skill | Ne Yapar |
 |------|-------|----------|
 | 1 | WEB_TREND_SCANNING | Moda sitelerini Playwright ile tarar, ham veri toplar |
-| 2 | TREND_ANALYSIS | Toplanan veriyi skorlar, kategorize eder, siralar |
-| 3 | REPORT_GENERATION | Turkce haftalik rapor uretir (top 10 trend, renkler, kumaslar) |
+| 2 | TREND_ANALYSIS | Toplanan veriyi skorlar, kategorize eder, sıralar |
+| 3 | REPORT_GENERATION | Türkçe haftalık rapor üretir (top 10 trend, renkler, kumaşlar) |
 | 4 | TREND_INTELLIGENCE | Her trende momentum, risk, aksiyon analizi ekler |
 
-Agent ciktilari `agent/data/outputs/YYYY-MM-DD/` altina yazilir.
+Agent çıktıları `agent/data/outputs/YYYY-MM-DD/` altına yazılır.
 
 ---
 
@@ -67,80 +67,80 @@ Agent ciktilari `agent/data/outputs/YYYY-MM-DD/` altina yazilir.
 | Frontend | Next.js 16, Tailwind CSS, TypeScript |
 | Font | IBM Plex Sans + IBM Plex Mono |
 | Hosting | Vercel (otomatik deploy) |
-| CI/CD | GitHub Actions (haftalik cron) |
-| Veri | JSON (agent ciktilari --> build.py --> report.json) |
+| CI/CD | GitHub Actions (haftalık cron) |
+| Veri | JSON (agent çıktıları → build.py → report.json) |
 
 ---
 
-## Proje Yapisi
+## Proje Yapısı
 
 ```
 trenddrop/
-  agent/                  # AI agent tanimlari
-    AGENT.md              # Agent tanimi
-    skills/               # 4 skill dosyasi
-    data/outputs/         # Haftalik ciktilar
-  knowledge/              # Hedef kitle ve strateji
+  agent/                      # AI agent tanımları
+    AGENT.md                  # Agent tanımı
+    skills/                   # 4 skill dosyası
+    data/outputs/             # Haftalık çıktılar
+  knowledge/                  # Hedef kitle ve strateji
   src/
-    app/page.tsx          # Ana sayfa
+    app/page.tsx              # Ana sayfa
     components/
-      trend-modal.tsx     # Trend detay modal
+      trend-modal.tsx         # Trend detay modal
       intelligence-panel.tsx  # Intelligence paneli
     lib/
-      report.json         # build.py'nin urettigi veri
-      report-data.ts      # TypeScript tipleri
-  build.py                # Agent ciktilari --> report.json
-  deploy.sh               # Manuel deploy scripti
+      report.json             # build.py'nin ürettiği veri
+      report-data.ts          # TypeScript tipleri
+  build.py                    # Agent çıktıları → report.json
+  deploy.sh                   # Manuel deploy scripti
   .github/workflows/
-    weekly-trends.yml     # Pazartesi otomatik calisma
+    weekly-trends.yml         # Pazartesi otomatik çalışma
 ```
 
 ---
 
-## Arayuz Ozellikleri
+## Arayüz Özellikleri
 
-- **Hafta dropdown** -- Gecmis haftalara gecis
-- **Trend kartlari** -- Skor, kategori, yasam dongusu badge'i
-- **Trend detay modal** -- Nedir, neden simdi, nasil giyilir, kaynaklar
-- **Intelligence paneli** -- Momentum, guven skoru, aksiyon, risk
-- **Renk trendleri** -- Renk, durum, nerede giyilir, kombin onerisi
-- **Kumas trendleri** -- Kumas adi, yonu, kullanim
-- **Gelecek hafta** -- Beklentiler ve tahminler
+- **Hafta dropdown** — Geçmiş haftalara geçiş
+- **Trend kartları** — Skor, kategori, yaşam döngüsü badge'i
+- **Trend detay modal** — Nedir, neden şimdi, nasıl giyilir, kaynaklar
+- **Intelligence paneli** — Momentum, güven skoru, aksiyon, risk
+- **Renk trendleri** — Renk, durum, nerede giyilir, kombin önerisi
+- **Kumaş trendleri** — Kumaş adı, yönü, kullanım
+- **Gelecek hafta** — Beklentiler ve tahminler
 
 ---
 
-## Lokal Gelistirme
+## Lokal Geliştirme
 
 ```bash
-# Bagimliliklari kur
+# Bağımlılıkları kur
 npm install
 
-# report.json olustur
+# report.json oluştur
 python3 build.py
 
-# Gelistirme sunucusunu baslat
+# Geliştirme sunucusunu başlat
 npm run dev
 ```
 
-Site http://localhost:3000 adresinde acilir.
+Site http://localhost:3000 adresinde açılır.
 
 ---
 
 ## Manuel Deploy
 
 ```bash
-# Agent calistiktan sonra:
+# Agent çalıştıktan sonra:
 bash deploy.sh
 ```
 
-Bu komut: `build.py` calistirir, degisiklikleri commit eder, GitHub'a push'lar. Vercel otomatik deploy eder.
+Bu komut: `build.py` çalıştırır, değişiklikleri commit eder, GitHub'a push'lar. Vercel otomatik deploy eder.
 
 ---
 
 ## Otomatik Deploy
 
-GitHub Actions her Pazartesi 12:00 (TR) otomatik calisir. Manuel tetiklemek icin: GitHub repo --> Actions --> "Run workflow".
+GitHub Actions her Pazartesi 12:00 (TR) otomatik çalışır. Manuel tetiklemek için: GitHub repo → Actions → "Run workflow".
 
 ---
 
-Yapimci: Claude Code Agent + Uygar Aydin
+Yapımcı: Claude Code Agent + Uygar Aydın
