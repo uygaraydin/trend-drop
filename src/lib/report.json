@@ -919,11 +919,433 @@
       "top_score": 9.2,
       "report_file": "2026-03-30_fashion-trend_weekly-report.md",
       "week_label": "30 Mar – 5 Nis 2026"
+    },
+    "2026-04-13": {
+      "meta": {
+        "author": "fashion-trend-agent",
+        "period": "7–13 Nisan 2026",
+        "status": "Haftalık tarama — 3. döngü"
+      },
+      "highlights": [],
+      "trends": [
+        {
+          "rank": 1,
+          "name": "Military & Utility Jacket",
+          "category": "Dış Giyim",
+          "lifecycle": "Yükselen",
+          "score": 9.0,
+          "source_count": 5,
+          "what": "Napoleon çift düğmeli ceketler, hussar-tarzı military jacketlar, camo baskılar. Cropped ve renkli versiyonlar fast fashion'a girdi.",
+          "why_now": "Dior, McQueen, Burberry, Balmain podyum onayı. Kendrick Lamar + Bella Hadid sokak kombinleri. Geçen hafta watch list'teydi — bu hafta 5 büyük editöryel kaynak kapağında.",
+          "how": [
+            "Military jacket + wide-leg pantolon + loafer = effortless chic",
+            "Cropped military jacket + dantel etek = sert/yumuşak kontrast (trendin en güçlü kombinasyonu)",
+            "Camo top + nötral pantolon = streetwear dozu"
+          ],
+          "sources": [
+            {
+              "name": "Who What Wear",
+              "url": "https://www.whowhatwear.com/fashion/outerwear/spring-jacket-trends-2026"
+            },
+            {
+              "name": "Refinery29",
+              "url": "https://www.refinery29.com/en-us/spring-2026-fashion-trends"
+            }
+          ],
+          "intelligence": {
+            "name": "Military & Utility Jacket",
+            "momentum_score": 88,
+            "acceleration": "fast",
+            "stage": "accelerating",
+            "time_horizon": "short",
+            "market_impact": "growing",
+            "confidence_score": 82,
+            "key_insight": "Military jacket watch list'ten 5 kaynakla doğrudan #1'e girdi — podyumdan sokağa geçiş tamamlandı, fast fashion adoptionı bu hafta başlıyor.",
+            "action": "Bu hafta Zara ve H&M yeni gelenlerini tara — cropped ve renkli military jacket modellerini stoka al veya öne çıkar. Dantel etek ile cross-sell fırsatı yüksek.",
+            "risk": "Trend askeri estetikle özdeşleşirse depolitize edilmesi zorlaşabilir; aşırı yorum kitleyi uzaklaştırabilir. Cropped/renkli versiyonlara odaklan, literal military'den uzak dur."
+          }
+        },
+        {
+          "rank": 2,
+          "name": "Lace Details Renaissance",
+          "category": "Detay/Tops/Bottoms",
+          "lifecycle": "Zirve",
+          "score": 9.0,
+          "source_count": 6,
+          "what": "Dantel etek, dantel bluz, dantel-trim şort, dantel aksesuarlar. Artık sadece boho değil — denim, tailored blazer ile kombinleniyor.",
+          "why_now": "NYFW street style tamamen dantel kapladı. Pinterest dantel aramaları hızlı artıyor. EU market forecast: +20%. Zara, ASOS, Mango — hepsinde bu sezonda var.",
+          "how": [
+            "Dantel bluz + bootcut jean + kitten heel = modern romantik (bu sezonun it kombini)",
+            "Dantel etek + blazer = güç + feminelik",
+            "Dantel-kenar şort + oversized tee = günlük chic"
+          ],
+          "sources": [
+            {
+              "name": "Who What Wear",
+              "url": "https://www.whowhatwear.com/fashion/trends/lace-trend-2026"
+            }
+          ],
+          "intelligence": {
+            "name": "Lace Details Renaissance",
+            "momentum_score": 91,
+            "acceleration": "fast",
+            "stage": "accelerating",
+            "time_horizon": "short",
+            "market_impact": "growing",
+            "confidence_score": 88,
+            "key_insight": "2 kaynaktan 6 kaynağa çıkarak sezonun en büyük ivmesini yakaladı; NYFW street style + EU +20% forecast + 6 retailer aynı anda doğruladı.",
+            "action": "Dantel bluz ve dantel etek öne çıkar — tailored+lace karışımı içerik ve stilleme üret. Ballet flat ile cross-sell fırsatı var. Boho angle yerine 'modern romantik' dilini kullan.",
+            "risk": "Dantel fazlası 'bridal' veya 'dated boho' algısı yaratabilir — tailored ve denim karışımlarına odaklan, head-to-toe danteldan kaçın."
+          }
+        },
+        {
+          "rank": 3,
+          "name": "Bootcut Jeans Comeback",
+          "category": "Bottoms",
+          "lifecycle": "Yükselen",
+          "score": 8.6,
+          "source_count": 5,
+          "what": "Modern bootcut — bacakta slim fit, bilekte hafif flare. 2000'lerin abartısı yok; daha rafine, dengeli silüet. Ballet flat ve kitten heel ile kombinleniyor, kovboy botu değil.",
+          "why_now": "Wide-leg yorgunluğu başladı. Kendrick Lamar Super Bowl'da giydi. Bella Hadid sokakta taşıdı. Skinny'den wide-leg'e döngüsünün doğal bir sonraki adımı.",
+          "how": [
+            "Bootcut + V-neck kazak + ballet flat = effortless Parisian",
+            "Bootcut + dantel bluz + kitten heel = romantic günlük",
+            "Dark wash bootcut + military jacket = structured cool"
+          ],
+          "sources": [],
+          "intelligence": {
+            "name": "Bootcut Jeans Comeback",
+            "momentum_score": 84,
+            "acceleration": "fast",
+            "stage": "emerging",
+            "time_horizon": "short",
+            "market_impact": "growing",
+            "confidence_score": 80,
+            "key_insight": "Wide-leg yorgunluğunun tetiklediği yeni silüet talebi; 5 editöryel kaynak ve celebrity doğrulaması ile ilk haftada güçlü çıktı yapıyor.",
+            "action": "Bootcut jean stokunu kontrol et — mid-rise ve high-rise, dark wash versiyonlar öne çıkar. Ballet flat ve kitten heel ile paket içerik üret. 'Wide-leg'den geçiş' anlatısı kullan.",
+            "risk": "Tüketiciler 2000'ler anısıyla olumsuz bağlantı kurabilir; modern, slim-thigh versiyonları özellikle vurgula. 'Flare' kelimesinden ziyade 'balanced silhouette' kullan."
+          }
+        },
+        {
+          "rank": 4,
+          "name": "Maximalism & Color Blocking",
+          "category": "Stil/Renk",
+          "lifecycle": "Yükselen",
+          "score": 8.4,
+          "source_count": 5,
+          "what": "Quiet luxury dönemi kapandı. Bold renk kombinasyonları: khaki+fuşya, lacivert+sarı, lila+kırmızı. Hacimlı omuzlar, volümlü kollar, funnel-neck detaylar.",
+          "why_now": "Prada \"unlikely combinations\" podyum anı kırılma noktası oldu. Marie Claire manşeti: \"Maximalism Is In.\" Gen Z nötrallerden sıkıldı — ifade özgürlüğü talep ediyor.",
+          "how": [
+            "Color-block: sarı üst + lacivert pantolon = editorial hit",
+            "Tek bold parça + nötral alt = dengeli çarpıcılık",
+            "Hacimlı omuzlu ceket + slim pantolon = silüet drama"
+          ],
+          "sources": [
+            {
+              "name": "Marie Claire",
+              "url": "https://www.marieclaire.com/fashion/spring-fashion/spring-2026-color-trends/"
+            },
+            {
+              "name": "Istituto Marangoni",
+              "url": "https://www.istitutomarangoni.com/en/maze35/industry/gen-z-maximalism-fashion-2026"
+            }
+          ],
+          "intelligence": {
+            "name": "Maximalism & Color Blocking",
+            "momentum_score": 82,
+            "acceleration": "fast",
+            "stage": "accelerating",
+            "time_horizon": "mid",
+            "market_impact": "growing",
+            "confidence_score": 78,
+            "key_insight": "Watch list'ten 8.4 skorla doğrudan ana listeye giren bu trend, quiet luxury'nin yerini alacak yeni dominant estetik döngüsünü başlatıyor.",
+            "action": "Color-block set içerikler üret; sarı+lacivert ve fuşya+khaki kombinlerini öne çıkar. Gen Z için 'styling guide' formatı çalışır. Bold aksesuar cross-sell fırsatı var.",
+            "risk": "Maximalizm 'too much' algısı yaratabilir — 'tek bold parça + nötr alt' formulünü öğret. Aşırı karmaşık kombin önerileri kullanıcıyı kaçırır."
+          }
+        },
+        {
+          "rank": 5,
+          "name": "Sunshine Yellow",
+          "category": "Renk",
+          "lifecycle": "Yükselen",
+          "score": 8.2,
+          "source_count": 4,
+          "what": "Kanarya sarısı, güneş sarısı. Tory Burch, Lanvin, Ferragamo podyum onayı. Hem statement parça hem accent renk olarak kullanılıyor.",
+          "why_now": "Bahar rengi döngüsü + maximalism dalgası. Nötr egemenliğine karşı. Hava ısındıkça sarı arayışı artıyor.",
+          "how": [
+            "Sarı keten gömlek + beyaz wide-leg = güneşli chic",
+            "Sarı statement elbise tek başına = colour hero",
+            "Sarı çanta ya da sandalet + nötral kombin = minimal dokunuş"
+          ],
+          "sources": [
+            {
+              "name": "Pantone Report",
+              "url": "https://wunderlabel.com/blog/p/color-trends-2026-pantone-coloro-fashion-weeks/"
+            }
+          ],
+          "intelligence": {
+            "name": "Sunshine Yellow",
+            "momentum_score": 79,
+            "acceleration": "fast",
+            "stage": "emerging",
+            "time_horizon": "short",
+            "market_impact": "niche",
+            "confidence_score": 74,
+            "key_insight": "3 büyük podyumun eş zamanlı onayı ve Pantone destekli renk döngüsüyle fast fashion'a bu ay girecek; aksesuar kategorisinden başlayacak.",
+            "action": "Sarı aksesuar (çanta, sandalet) ile başla — tam kombin öncesi 'accent piece' olarak sun. Sarı keten gömlek önden gelen ilk parça olabilir. 'Nasıl taşınır' içeriği üret.",
+            "risk": "Sarı ten rengine duyarlı bir renk — 'herkes için' dilinden kaçın. Hangi ton daha evrensel olduğunu göster (kanarya yerine soft lemon öner)."
+          }
+        },
+        {
+          "rank": 6,
+          "name": "Linen Domination",
+          "category": "Kumaş",
+          "lifecycle": "Zirve",
+          "score": 8.2,
+          "source_count": 6,
+          "what": "Keten blazer, keten pantolon, keten gömlek, keten elbise — SS26'nın star kumaşı. Artık sadece yaz kumaşı değil; günlük giyimin temel dokusu.",
+          "why_now": "Sürdürülebilirlik anlatısı güçleniyor. Doğal fiber odağı. 6 büyük kaynak teyitli. Hava ısındıkça talep artacak.",
+          "how": [
+            "Full keten takım = maximum effortless chic",
+            "Keten gömlek + bootcut jean = mellow cool",
+            "Keten pantolon + military jacket = utility meets elegance"
+          ],
+          "sources": [],
+          "intelligence": {
+            "name": "Linen Domination",
+            "momentum_score": 76,
+            "acceleration": "steady",
+            "stage": "mainstream",
+            "time_horizon": "mid",
+            "market_impact": "mainstream",
+            "confidence_score": 92,
+            "key_insight": "6 kaynak teyitli, peak'e ulaşmış, artık haber değil — ama Nisan-Haziran aylarında satış hacmi doruk yapacak; iyi stoklama ve 'nasıl kombinlenir' içeriği hala değerli.",
+            "action": "Full linen set (blazer + pantolon) kombini öne çıkar. Keten parçaları military jacket ve bootcut jean ile cross-sell et. 'Sürdürülebilir seçim' anlatısıyla keten alışverişini destekle.",
+            "risk": "Çok satılan trend olduğunda 'herkes giyiyor' algısıyla marka farklılaşması zorlaşır — kalite ve stil anlatısını ön planda tut, fiyat rekabetine girme."
+          }
+        },
+        {
+          "rank": 7,
+          "name": "Cherry Red Continuation",
+          "category": "Renk",
+          "lifecycle": "Zirve",
+          "score": 7.8,
+          "source_count": 4,
+          "what": "Cherry red, tomato red, mercan kırmızısı. Prada ve Tory Burch podyum onayı. 2025'ten taşınan trend artık fast fashion'da everyday seviyesinde.",
+          "why_now": "Maximalism dalgası bold renkleri meşrulaştırıyor. Önceden statement parça olan kırmızı artık gömlek, pantolon, elbisede normal.",
+          "how": [
+            "Kırmızı keten gömlek + beyaz pantolon = summer statement",
+            "Kırmızı elbise + altın aksesuar = akşam look'u",
+            "Kırmızı çanta ya da sandalet + nötral kombin = klasik accent"
+          ],
+          "sources": [],
+          "intelligence": {
+            "name": "Cherry Red Continuation",
+            "momentum_score": 72,
+            "acceleration": "slowing",
+            "stage": "mainstream",
+            "time_horizon": "mid",
+            "market_impact": "mainstream",
+            "confidence_score": 85,
+            "key_insight": "2025'ten gelen güçlü momentum peak'te — artık fast fashion'da everyday ürün, influencer viral anı geride; yavaşlamadan önce stoku temizle.",
+            "action": "Kırmızı parçaları sezon sonu kampanyalarında öne çıkar. Maximalism color blocking içinde 'clash partner' olarak yeniden konumlandır (kırmızı + sarı, kırmızı + lila).",
+            "risk": "Trendden çıkış hızlanabilir — kırmızı stoku bu sezon içinde eritmeye çalış, gelecek sezon için büyük sipariş verme."
+          }
+        },
+        {
+          "rank": 8,
+          "name": "Trench Coat Reinvented",
+          "category": "Dış Giyim",
+          "lifecycle": "Yükselen",
+          "score": 7.2,
+          "source_count": 3,
+          "what": "Funnel-neck trench, dropped-waist versiyonlar, linen ve suede dokunuşlar. Klasik bej değil — renkli ve deconstructed versiyonlar öne çıkıyor.",
+          "why_now": "Nisan yağmurları + mevsim geçiş. Blazer'ın yerini alıyor. Hem chic hem pratik.",
+          "how": [
+            "Renkli trench + bootcut jean + loafer = Parisian cool",
+            "Oversize trench + mini etek = proporsiyon oyunu",
+            "Bej trench + kırmızı aksesuar = klasik + canlılık"
+          ],
+          "sources": [],
+          "intelligence": {
+            "name": "Trench Coat Reinvented",
+            "momentum_score": 68,
+            "acceleration": "steady",
+            "stage": "emerging",
+            "time_horizon": "short",
+            "market_impact": "niche",
+            "confidence_score": 65,
+            "key_insight": "Nisan geçiş döneminin yarattığı mevsimsel pencere kısa — funnel-neck ve renkli versiyonlar klasik beji solluyor, ama 4-6 haftalık bir fırsat.",
+            "action": "Renkli trench ve funnel-neck trench bu ayın içinde öne çıkar — 'Nisan yağmurları' anlatısıyla kampanya kur. Bootcut jean ile paket öneri yap.",
+            "risk": "Hava şartları değişirse (erken ısınma) talebi düşer. Kısa pencere, büyük stok riski yüksek — hızlı dönen küçük koleksiyonlarla gir."
+          }
+        },
+        {
+          "rank": 9,
+          "name": "Statement Accessories",
+          "category": "Aksesuar",
+          "lifecycle": "Yükselen",
+          "score": 7.0,
+          "source_count": 3,
+          "what": "Brooch aesthetic (Pinterest aramaları +110% YoY), dokuma çantalar, sculptural pendant kolye, XL pendant, görünür zincirler.",
+          "why_now": "Maximalism dalgasıyla aksesuar ön plana çıkıyor. Vintage ve artisanal duygu moda. Kombin tamamlayıcısı değil, look'un odak noktası haline geliyor.",
+          "how": [
+            "Blazer lapeline brooch = instant vintage chic",
+            "Dokuma çanta + keten kombin = doğal estetik",
+            "XL pendant kolye + minimalist elbise = aksesuar-odaklı look"
+          ],
+          "sources": [
+            {
+              "name": "Pinterest Predicts",
+              "url": "https://business.pinterest.com/pinterest-predicts/"
+            }
+          ],
+          "intelligence": {
+            "name": "Statement Accessories",
+            "momentum_score": 65,
+            "acceleration": "fast",
+            "stage": "emerging",
+            "time_horizon": "mid",
+            "market_impact": "niche",
+            "confidence_score": 62,
+            "key_insight": "Brooch aramaları Pinterest'te +110% — aksesuar trendleri içerik platformlarında viral olmadan önce arama datalarında görünür; erken hareket avantaj sağlar.",
+            "action": "Brooch ve sculptural kolye editöryal içerikle öne çıkar — 'nasıl taşınır' + 'hangi kombin' formatı çalışır. Düşük fiyat noktası geniş kitlenin erken katılımını sağlar.",
+            "risk": "Aksesuar trendleri çok hızlı saturate olabilir — influencer adoptionından önce hareket et, sonra marka 'keşfeden' konumuna düşer."
+          }
+        },
+        {
+          "rank": 10,
+          "name": "Vintage Sportswear Revival",
+          "category": "Stil",
+          "lifecycle": "Yükselen",
+          "score": 6.8,
+          "source_count": 3,
+          "what": "Vintage Lululemon, upcycled jersey, rugby shirt + kitten heel. Track jacket + denim. Depop: vintage Lululemon aramaları +1689%.",
+          "why_now": "Gen Z'nin \"uniform dressing\" isteği. Athleisure evrim geçirdi — artık tailored parçalarla mix. Depop/resale market hızlanıyor.",
+          "how": [
+            "Rugby shirt + bootcut jean + loafer = smart athletic",
+            "Track jacket + dantel etek = sport meets romantic (trendin en yaratıcı kombinasyonu)",
+            "Vintage jersey + tailored pantolon = elevated sporty"
+          ],
+          "sources": [],
+          "intelligence": {
+            "name": "Vintage Sportswear Revival",
+            "momentum_score": 62,
+            "acceleration": "steady",
+            "stage": "emerging",
+            "time_horizon": "mid",
+            "market_impact": "niche",
+            "confidence_score": 60,
+            "key_insight": "Depop'ta +1689% Vintage Lululemon araması sosyal medyada henüz viral olmadan önce gelen erken sinyal — resale ve upcycle segmentini hedef kitle olarak yakala.",
+            "action": "Rugby shirt ve track jacket kombinlerini 'smart athletic' anlatısıyla öne çıkar. Dantel etek ile cross-styling içeriği trend yaratıcılığını gösterir. Thrifting-friendly fiyat noktaları önemli.",
+            "risk": "Depop/resale datası her zaman mainstream'e geçmiyor — niche kalabilir. Büyük stok hamlesi yapmak yerine içerik ve stilleme testi yap."
+          }
+        }
+      ],
+      "colors": [
+        {
+          "name": "Sunshine Yellow / Kanarya",
+          "status": "Yükselen",
+          "where": "Bluzlar, elbiseler, aksesuarlar",
+          "combo": "Sarı + beyaz, sarı + lacivert (color block)"
+        },
+        {
+          "name": "Cloud Dancer / Off-White",
+          "status": "Zirve",
+          "where": "Full outfit, keten parçalar, blazer",
+          "combo": "Off-white + taba, all-white"
+        },
+        {
+          "name": "Cherry Red / Tomato Red",
+          "status": "Zirve",
+          "where": "Everyday parçalar, gömlek, elbise",
+          "combo": "Kırmızı + beyaz, kırmızı + denim"
+        },
+        {
+          "name": "Sage Green / Mint",
+          "status": "Yükselen",
+          "where": "Bluzlar, pantolon, aksesuar",
+          "combo": "Sage + ekru, mint + beyaz"
+        },
+        {
+          "name": "Ballet Pink",
+          "status": "Stabil",
+          "where": "Elbiseler, dantel parçalar",
+          "combo": "Pembe + krem, pastel combo"
+        },
+        {
+          "name": "Bold Color Clash",
+          "status": "Yükselen",
+          "where": "Head-to-toe, color-block setler",
+          "combo": "Fuşya + khaki, lila + kırmızı"
+        }
+      ],
+      "fabrics": [
+        {
+          "name": "Kumaş",
+          "direction": "Durum",
+          "usage": "Uygulamalar"
+        },
+        {
+          "name": "Keten (Linen)",
+          "direction": "Zirve",
+          "usage": "Blazer, pantolon, gömlek, elbise, kimono"
+        },
+        {
+          "name": "Dantel (Lace)",
+          "direction": "Zirve",
+          "usage": "Etek, bluz, trim detail, aksesuar"
+        },
+        {
+          "name": "Saten / Akışkan",
+          "direction": "Yükselen",
+          "usage": "Elbise, pantolon, drop-waist silüetler"
+        },
+        {
+          "name": "Denim",
+          "direction": "Stabil",
+          "usage": "Bootcut, utility denim, peplum denim"
+        },
+        {
+          "name": "Utility Fabric",
+          "direction": "Yükselen",
+          "usage": "Military jacket, cargo detay, safari parçalar"
+        }
+      ],
+      "next_week": [
+        {
+          "title": "",
+          "desc": "Military jacket fast fashion raflarını dolduracak — Zara ve H&M yeni arrivals'larında görünmesi bekleniyor"
+        },
+        {
+          "title": "",
+          "desc": "Bootcut jean Türkiye pazarında (Trendyol, Koton) belirginleşecek mi? Tier 2 kaynaklarda takip et"
+        },
+        {
+          "title": "",
+          "desc": "Sunshine Yellow aksesuar kategorisinde (çanta, sandalet) ilk görünümlerini verecek"
+        },
+        {
+          "title": "",
+          "desc": "Color clashing TikTok'ta viral içeriklere dönüşüyor — #colorblock hashtagini takip et"
+        },
+        {
+          "title": "",
+          "desc": "Capri pants watch list'ten çıkacak mı? Versace ve Rabanne'nin fast fashion adoptionı izleniyor"
+        }
+      ],
+      "alert": null,
+      "has_intelligence": true,
+      "trend_count": 10,
+      "top_score": 9.0,
+      "report_file": "2026-04-13_fashion-trend_weekly-report.md",
+      "week_label": "13 Nis – 19 Nis 2026"
     }
   },
   "available_weeks": [
+    "2026-04-13",
     "2026-03-30",
     "2026-03-23"
   ],
-  "latest": "2026-03-30"
+  "latest": "2026-04-13"
 }

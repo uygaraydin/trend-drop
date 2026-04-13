@@ -1,0 +1,291 @@
+{
+  "scan_date": "2026-04-13",
+  "scan_time": "09:00 UTC",
+  "sources_scanned": [
+    "Who What Wear (multiple articles)",
+    "Refinery29",
+    "Marie Claire",
+    "Pinterest Predicts 2026",
+    "TikTok trending hashtags",
+    "ASOS Spring Trend Report",
+    "Mango SS26 Collection",
+    "Zara Spring 2026 (via WWW editorial)",
+    "H&M Spring 2026 (via WWW editorial)",
+    "Net-a-Porter Porter",
+    "Heuritech Forecast",
+    "Hypebeast SS26",
+    "Pantone Color of Year",
+    "Complex Streetwear Report"
+  ],
+  "source_count": 14,
+  "signals": [
+    {
+      "name": "Military & Utility Jacket",
+      "category": "Outerwear",
+      "style": "Streetwear / Casual",
+      "signal_strength": "Strong",
+      "novelty": "Comeback",
+      "sources": [
+        "Who What Wear",
+        "Refinery29",
+        "Marie Claire",
+        "Hypebeast",
+        "Complex"
+      ],
+      "notes": "Double-breasted Napoleon jackets, hussar-style, camo prints. Runway: Dior, McQueen, Burberry, Balmain. Fast fashion now adopting — cropped silhouettes, clean lines, fun colors. Celebrities spotted wearing.",
+      "links": [
+        "https://www.whowhatwear.com/fashion/outerwear/spring-jacket-trends-2026",
+        "https://www.refinery29.com/en-us/spring-2026-fashion-trends",
+        "https://mega-asia.com/fashion/features/mega-trend-report-military-jacket-2026/"
+      ]
+    },
+    {
+      "name": "Lace Details Renaissance",
+      "category": "Detail / Tops / Bottoms",
+      "style": "Feminine / Romantic",
+      "signal_strength": "Strong",
+      "novelty": "Continuing (Accelerating)",
+      "sources": [
+        "Who What Wear",
+        "Pinterest Predicts",
+        "NYFW Street Style",
+        "Zara",
+        "ASOS",
+        "Mango"
+      ],
+      "notes": "Lace skirts, lace-trim shorts, lace blouses, lace cami tops. Not just boho anymore — combined with denim, tailored blazers. Pinterest: lace searches surging. EU market +20% forecast. Multiple retailer adoption confirmed.",
+      "links": [
+        "https://www.whowhatwear.com/fashion/trends/lace-trend-2026",
+        "https://fashionista.com/2025/09/nyfw-spring-2026-street-style-trend-lace"
+      ]
+    },
+    {
+      "name": "Bootcut Jeans Comeback",
+      "category": "Bottoms",
+      "style": "Casual / Retro",
+      "signal_strength": "Strong",
+      "novelty": "Comeback",
+      "sources": [
+        "Who What Wear",
+        "StyleWhim",
+        "Inquirer Lifestyle",
+        "Yahoo Style",
+        "Marie Claire"
+      ],
+      "notes": "Modern refined version — slim thigh, slight flare at hem. NOT 2000s exaggerated. Wide-leg fatigue driving demand. Kendrick Lamar at Super Bowl, Bella Hadid street style. Styled with ballet flats, kitten heels (not boots).",
+      "links": [
+        "https://www.whowhatwear.com/fashion/shopping/bootcut-jean-outfits-2026",
+        "https://lifestyle.inquirer.net/565051/why-bootcut-jeans-are-the-coolest-jeans-of-2026/"
+      ]
+    },
+    {
+      "name": "Maximalism & Color Blocking",
+      "category": "Style / Color",
+      "style": "Maximalist / Gen Z",
+      "signal_strength": "Strong",
+      "novelty": "New Trend Direction",
+      "sources": [
+        "Marie Claire",
+        "Istituto Marangoni",
+        "Who What Wear",
+        "Fibre2Fashion",
+        "Pinterest"
+      ],
+      "notes": "Quiet luxury fully out. Colour-blocking comeback — khaki+fuchsia, navy+yellow, lilac+red. Gen Z maximalism: lace, satin, denim in one look. Bold silhouettes: sculpted shoulders, voluminous sleeves. Prada 'unlikely combinations' led.",
+      "links": [
+        "https://www.marieclaire.com/fashion/spring-fashion/spring-2026-color-trends/",
+        "https://www.istitutomarangoni.com/en/maze35/industry/gen-z-maximalism-fashion-2026"
+      ]
+    },
+    {
+      "name": "Sunshine Yellow Statement",
+      "category": "Color",
+      "style": "All styles",
+      "signal_strength": "Strong",
+      "novelty": "Rising",
+      "sources": [
+        "Who What Wear",
+        "Pantone Report",
+        "Tory Burch Runway",
+        "Lanvin Runway",
+        "Ferragamo Runway"
+      ],
+      "notes": "One of the biggest spring color stories. Canary yellow, sunshine yellow. Tory Burch, Lanvin, Ferragamo all on runways. Paired with neutrals or used as clash color. Moving to fast fashion now.",
+      "links": [
+        "https://www.whowhatwear.com/fashion/trends/spring-fashion-color-trends-2026",
+        "https://wunderlabel.com/blog/p/color-trends-2026-pantone-coloro-fashion-weeks/"
+      ]
+    },
+    {
+      "name": "Linen (Continued Dominance)",
+      "category": "Fabric",
+      "style": "All styles",
+      "signal_strength": "Strong",
+      "novelty": "Continuing / Peak",
+      "sources": [
+        "Italian Fashion Sourcing",
+        "Fabriclore",
+        "JustFabrics",
+        "Zara",
+        "H&M",
+        "Mango"
+      ],
+      "notes": "Linen is the star fabric of SS26. Resort-ready linen separates, drawstring pants, safari-inspired jackets, kimono cover-ups. Not seasonal anymore — everyday dressing. Natural fiber focus driven by sustainability.",
+      "links": [
+        "https://www.italianfashionsourcing.com/linen-spring-summer-2026-trends-sourcing-boutiques/",
+        "https://lesoleildelafloride.com/english/trends-linen-the-star-of-spring-summer-2026/"
+      ]
+    },
+    {
+      "name": "Ballet Flats (V-Cut / Kitten Heel Evolution)",
+      "category": "Footwear",
+      "style": "Feminine / Elegant",
+      "signal_strength": "Medium",
+      "novelty": "Continuing",
+      "sources": [
+        "Who What Wear",
+        "Net-a-Porter Porter",
+        "Yahoo Style"
+      ],
+      "notes": "V-cut ballet flats as comfort-meets-elegance. Now styled with bootcut jeans instead of boots. Kitten heel version also rising. Spring must-have footwear.",
+      "links": [
+        "https://www.net-a-porter.com/en-ca/porter/article-e9e1fd4ba9a6d628/fashion/fashion-memo/ss26-fashion-trends"
+      ]
+    },
+    {
+      "name": "Statement Accessories (Brooches & Woven Bags)",
+      "category": "Accessories",
+      "style": "All styles",
+      "signal_strength": "Medium",
+      "novelty": "New Trend",
+      "sources": [
+        "Pinterest Predicts",
+        "Mango",
+        "Who What Wear"
+      ],
+      "notes": "Brooch aesthetic: Pinterest searches +110% YoY. Sculptural pendants, visible chains, XL pendants. Woven bags from natural materials. Accessories getting main-character moment.",
+      "links": [
+        "https://business.pinterest.com/pinterest-predicts/",
+        "https://shop.mango.com/us/en/discover/trends/women/spring-summer-2026-fashion-forecast-unveiling-the-top-trends_blt009ec67c298477b1"
+      ]
+    },
+    {
+      "name": "Cherry Red Continuation",
+      "category": "Color",
+      "style": "All styles",
+      "signal_strength": "Strong",
+      "novelty": "Continuing / Peak",
+      "sources": [
+        "Who What Wear",
+        "Marie Claire",
+        "Prada",
+        "Tory Burch"
+      ],
+      "notes": "Cherry red confirmed by Prada, Tory Burch. Major color trend from 2025 carrying into 2026. Now in everyday fast fashion, not just statement pieces. Tomato red, coral variations also visible.",
+      "links": [
+        "https://www.whowhatwear.com/fashion/trends/fashion-colour-trends-2026"
+      ]
+    },
+    {
+      "name": "Trench Coat Reinvented",
+      "category": "Outerwear",
+      "style": "Smart-Casual / Elegant",
+      "signal_strength": "Medium",
+      "novelty": "Continuing",
+      "sources": [
+        "ASOS",
+        "Mango",
+        "Who What Wear"
+      ],
+      "notes": "Funnel necks, dropped waists, suede and linen textures. Not classic beige — now in colored versions, deconstructed. April weather driving demand. Positioned as blazer alternative.",
+      "links": [
+        "https://www.asos.com/women/fashion-feed/2026_03_02-mon/spring-trend-report/"
+      ]
+    },
+    {
+      "name": "Polka Dots & Playful Prints",
+      "category": "Print / Pattern",
+      "style": "Feminine / Playful",
+      "signal_strength": "Medium",
+      "novelty": "New Entry",
+      "sources": [
+        "Zara",
+        "Who What Wear",
+        "Refinery29"
+      ],
+      "notes": "Zara spring collection leaning into polka dots across skirts and tops. Alongside florals, print energy returning as maximalism rises. Not seen since 2019.",
+      "links": [
+        "https://www.whowhatwear.com/fashion/shopping/zara-spring-arrivals-2026"
+      ]
+    },
+    {
+      "name": "Vintage Sportswear Revival",
+      "category": "Style",
+      "style": "Streetwear / Athleisure",
+      "signal_strength": "Medium",
+      "novelty": "New Trend",
+      "sources": [
+        "Marie Claire",
+        "Who What Wear",
+        "TikTok / Depop data"
+      ],
+      "notes": "Vintage Lululemon searches +1689% on Depop. Upcycled jerseys +233%. Rugby shirts with kitten heels. Track jackets with denim. The Gen Z 'uniform dressing' direction.",
+      "links": [
+        "https://www.marieclaire.com/fashion/gen-z-fashion-trends-2026/"
+      ]
+    },
+    {
+      "name": "Cloud Dancer / Off-White Dominance",
+      "category": "Color",
+      "style": "All styles",
+      "signal_strength": "Strong",
+      "novelty": "Continuing / Peak",
+      "sources": [
+        "Pantone",
+        "Who What Wear",
+        "Zara",
+        "H&M",
+        "Net-a-Porter"
+      ],
+      "notes": "Pantone Color of Year 2026: Cloud Dancer (PANTONE 11-4201). Soft airy off-white between warm and cool. Continues from ekru/krem trend of previous scans. Full outfit, blazers, linen pieces.",
+      "links": [
+        "https://wunderlabel.com/blog/p/color-trends-2026-pantone-coloro-fashion-weeks/"
+      ]
+    },
+    {
+      "name": "Slouchy Draped Silhouettes",
+      "category": "Silhouette",
+      "style": "Gen Z / Casual",
+      "signal_strength": "Medium",
+      "novelty": "Rising",
+      "sources": [
+        "Who What Wear",
+        "Marie Claire",
+        "TikTok"
+      ],
+      "notes": "Off-the-shoulder, dropped waists, slinky draped fabrics. Gen Z move away from cinched waists. '00s slinkiness returning. Satin fluid fabrics driving this.",
+      "links": [
+        "https://www.whowhatwear.com/fashion/gen-z-fashion-trends-2026"
+      ]
+    }
+  ],
+  "inaccessible_sources": [
+    {
+      "source": "Zara direct site (tr.zara.com)",
+      "reason": "Playwright MCP not used in this environment — editorial coverage used instead",
+      "fallback": "Who What Wear editorial analysis of Zara spring collection"
+    },
+    {
+      "source": "TikTok direct",
+      "reason": "Direct scrape not available — search data and editorial analysis used",
+      "fallback": "TikTok hashtag analytics and Marie Claire Gen Z trend report"
+    }
+  ],
+  "tier_coverage": {
+    "tier_1_fast_fashion": ["Zara (indirect)", "H&M (indirect)"],
+    "tier_2_mainstream": ["ASOS", "Mango"],
+    "tier_3_editorial_social": ["Who What Wear", "Refinery29", "Marie Claire", "Pinterest", "TikTok (indirect)"],
+    "tier_4_luxury": ["Net-a-Porter Porter", "Heuritech", "Runway data"],
+    "tier_5_web_search": ["fashion trends 2026 spring summer", "gen z fashion trends this week April 2026", "streetwear trends 2026 spring", "color trends fashion April 2026", "fabric material trends fashion 2026"]
+  }
+}
