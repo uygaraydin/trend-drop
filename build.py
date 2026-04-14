@@ -271,6 +271,19 @@ def week_label(monday_str):
     return f"{monday.day} {months_tr[monday.month - 1]} – {sunday.day} {months_tr[sunday.month - 1]} {monday.year}"
 
 
+def period_label(monday_str):
+    """Generate the hero 'Dönem' string from a Monday date string (full Turkish month names)."""
+    from datetime import datetime, timedelta
+    monday = datetime.strptime(monday_str, "%Y-%m-%d")
+    sunday = monday + timedelta(days=6)
+    months_full_tr = ["Ocak","Şubat","Mart","Nisan","Mayıs","Haziran",
+                      "Temmuz","Ağustos","Eylül","Ekim","Kasım","Aralık"]
+    if monday.month == sunday.month:
+        return f"{monday.day}–{sunday.day} {months_full_tr[monday.month - 1]} {monday.year}"
+    return (f"{monday.day} {months_full_tr[monday.month - 1]} – "
+            f"{sunday.day} {months_full_tr[sunday.month - 1]} {monday.year}")
+
+
 def main():
     from datetime import datetime, timedelta
 
@@ -306,6 +319,7 @@ def main():
             data = build_week(rp, alert_path, intel_path)
             if data:
                 data["week_label"] = week_label(monday_key)
+                data.setdefault("meta", {})["period"] = period_label(monday_key)
                 weeks[monday_key] = data
     else:
         for monday_key, week_path in week_dirs:
@@ -323,6 +337,7 @@ def main():
             data = build_week(report_path, alert_path, intel_path)
             if data:
                 data["week_label"] = week_label(monday_key)
+                data.setdefault("meta", {})["period"] = period_label(monday_key)
                 weeks[monday_key] = data
 
     if not weeks:
