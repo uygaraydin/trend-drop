@@ -1,7 +1,7 @@
 # Haftalık Moda Trend Raporu — 13 Nisan 2026
 
 **Hazırlayan:** fashion-trend-agent
-**Dönem:** 7–13 Nisan 2026
+**Dönem:** 13–19 Nisan 2026
 **Taranan Kaynak Sayısı:** 14 (Who What Wear, Refinery29, Marie Claire, Pinterest Predicts, TikTok, ASOS, Mango, Zara, H&M, Net-a-Porter, Heuritech, Hypebeast, Pantone, Complex)
 **Durum:** Haftalık tarama — 3. döngü
 
