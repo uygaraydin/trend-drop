@@ -1,0 +1,380 @@
+{
+  "date": "2026-04-20",
+  "period": "14-20 Nisan 2026",
+  "scan_sources_total": 15,
+  "scan_sources_accessible": 13,
+  "previous_scan": "2026-04-13",
+  "methodology_notes": "Skor = (signal_strength x3 + novelty x2 + audience_fit x2 + seasonal_fit x1) / 8. Signal strength: Strong(3+src)=9-10, Medium(2src)=6-7, Weak(1src)=3-4.",
+
+  "trends": [
+    {
+      "rank": 1,
+      "name": "Capri Pants Comeback",
+      "category": "Bottoms",
+      "lifecycle": "Yükselen",
+      "score": 9.1,
+      "source_count": 8,
+      "signal_strength": "Strong",
+      "audience_fit": 8,
+      "novelty_score": 9,
+      "seasonal_fit": 10,
+      "previous_status": "İzleme Listesi — 2026-04-13 raporunda 'Versace, Rabanne podyum sinyali, tartışmalı uzunluk, 1-2 ay alabilir' notu vardı",
+      "trajectory": "İzleme listesinden 8 kaynakla doğrudan #1'e uçuş — en büyük haftalık ivme",
+      "what": "Modern, yapılandırılmış capri — 2000'lerin geniş kesimli versiyonu değil. Premium kumaş, tailored silüet, intentional proporsiyon. Versace, Ralph Lauren, Isabel Marant podyum onayı; Nordstrom ve editöryel kaynaklarda ana trend olarak işleniyor.",
+      "why_now": "Y2K nostalji dalgasının capri'yi yeniden keşfetmesi + podyum meşruiyeti + spring-summer geçiş dönemi. Kısa pantolon sezonu açılırken capri en sofistike seçenek olarak konumlanıyor.",
+      "how": [
+        "Tailored capri + keten blazer + mule = effortless chic",
+        "Capri + dantel bluz + kitten heel = modern romantik",
+        "Capri + polo/V-neck + loafer = preppy sport combo",
+        "Wide-leg yorgunluğu sonrası dengeli silüet arayan segment için ideal geçiş"
+      ],
+      "sources": ["Versace SS26", "Ralph Lauren SS26", "Isabel Marant SS26", "Refinery29", "Who What Wear", "Hola", "RunwayLive", "Nordstrom April 2026"]
+    },
+    {
+      "rank": 2,
+      "name": "Sheer Skirts & Sheer Layers",
+      "category": "Bottoms / Layering",
+      "lifecycle": "Yükselen",
+      "score": 8.9,
+      "source_count": 6,
+      "signal_strength": "Strong",
+      "audience_fit": 7,
+      "novelty_score": 10,
+      "seasonal_fit": 10,
+      "previous_status": "Yeni giriş — önceki raporlarda yoktu",
+      "trajectory": "Tamamen yeni trend, ilk taramada 6 kaynaklı Strong sinyal — sezonun sürpriz newcomer'ı",
+      "what": "Şeffaf, hafif kumaşlar (şifon, tül, organza, voile) etek ve overlay olarak. Dizden kalçaya 'barely-there dressing'. Dries Van Noten fringe detay, Calvin Klein yapılandırılmış diz altı, Prada sheer layer katmanlaması. Hem minimalist hem maximalist yorumları mevcut.",
+      "why_now": "SS26 podyumların tek sesle işaret ettiği yaz trendi. Hava ısınmasıyla giyilebilirlik artıyor. Linen ve saten ile mükemmel kumaş uyumu. '2026 is the year of the sheer skirt' (WWW).",
+      "how": [
+        "Şeffaf midi etek + fitted tank top = effortless summer",
+        "Tül overlay + bootcut jean = romantic-casual kontrast",
+        "Organza etek + military jacket = hard/soft denge",
+        "Şeffaf bluz + yüksek bel pantolon = layered sophistication"
+      ],
+      "sources": ["Who What Wear (multiple)", "Dries Van Noten SS26", "Calvin Klein SS26", "Prada SS26", "ASOS", "Refinery29"]
+    },
+    {
+      "rank": 3,
+      "name": "Lace Details Renaissance",
+      "category": "Detay / Tops / Bottoms",
+      "lifecycle": "Zirve",
+      "score": 8.7,
+      "source_count": 6,
+      "signal_strength": "Strong",
+      "audience_fit": 9,
+      "novelty_score": 6,
+      "seasonal_fit": 9,
+      "previous_status": "Top 10 #2 (2026-04-13, skor 9.0, 6 kaynak) — peak konumda",
+      "trajectory": "Yatay ivme — zirve seviyesini koruyor, fast fashion adaptasyonu tamamlandı",
+      "what": "Dantel bluz, dantel etek, dantel-trim şort, dantel aksesuar. Artık sadece boho değil — denim, tailored blazer ile kombinleniyor. Zara Nisan 2026 arrivals'larında ana kategori.",
+      "why_now": "Zara, H&M, Mango, ASOS'un tümünde aktif olarak sergileniyor. WWW 'easy spring trends' listesine girdi. Peak'te ama hala geniş kitleye ulaşmaya devam ediyor.",
+      "how": [
+        "Dantel bluz + capri pantolon + kitten heel = yeni sezonun it kombinasyonu",
+        "Dantel etek + blazer = güç + feminelik",
+        "Dantel-trim şort + oversized tee = günlük chic",
+        "Dantel aksesuar + minimal kombin = subtle romantizm"
+      ],
+      "sources": ["Zara April 2026", "Who What Wear", "H&M Spring 2026", "Mango", "ASOS", "Refinery29"]
+    },
+    {
+      "rank": 4,
+      "name": "Suede Pieces (Jacket + Shoes + Bag)",
+      "category": "Dış Giyim / Ayakkabı / Aksesuar",
+      "lifecycle": "Yükselen",
+      "score": 8.4,
+      "source_count": 5,
+      "signal_strength": "Strong",
+      "audience_fit": 8,
+      "novelty_score": 8,
+      "seasonal_fit": 8,
+      "previous_status": "Yeni giriş — önceki raporda yoktu (niche mention olarak geçiyordu)",
+      "trajectory": "Multi-category validation: jacket, shoes ve bag üçlüsü aynı anda trende giriyor",
+      "what": "Süet bomber ceket, süet sandalet, süet çanta. Geçen yılın devam eden trendi bu bahar üç kategoride aynı anda patlıyor. Tekstürel, dokunsal, görsel ilgi yaratan tek malzeme.",
+      "why_now": "2025'ten gelen momentum + 2026 baharının 'tactile texture' odağıyla buluşuyor. Mango ve ASOS'ta suede sandals aksesuar bölümünü domine ediyor. WWW 'most covetable spring piece' dedi.",
+      "how": [
+        "Süet bomber + linen pantolon + white tee = understated luxury",
+        "Süet sandalet + capri + lace bluz = head-to-toe spring story",
+        "Süet çanta + bootcut jean + military jacket = texture layering",
+        "Tek süet parça + nötral kombin = effortless sophistication"
+      ],
+      "sources": ["Who What Wear", "ASOS", "Mango", "Selvyna Atelier SS26 Report", "Champagne & Savings 2026"]
+    },
+    {
+      "rank": 5,
+      "name": "Bootcut Jeans Comeback",
+      "category": "Bottoms",
+      "lifecycle": "Yükselen",
+      "score": 8.3,
+      "source_count": 5,
+      "signal_strength": "Strong",
+      "audience_fit": 8,
+      "novelty_score": 7,
+      "seasonal_fit": 8,
+      "previous_status": "Top 10 #3 (2026-04-13, skor 8.6, 5 kaynak, hızlı yükseliş)",
+      "trajectory": "Sürdürülen yükseliş — transitional styling ve 'spring-to-summer' içerikleriyle momentum devam ediyor",
+      "what": "Modern bootcut — bacak hattında slim, bilekte hafif flare. Ballet flat, kitten heel ve loafer ile kombinleniyor. Zara'da yeni colorway'ler. Her yaş segmentine hitap eden dengeli silüet.",
+      "why_now": "Wide-leg yorgunluğunun tetiklediği silüet değişimi devam ediyor. Transitional dressing makalelerinin odak noktası. Geçen haftanın skor düşüşü çok minor — güçlü devam.",
+      "how": [
+        "Bootcut + dantel bluz + kitten heel = romantik günlük (sezonun it combo)",
+        "Bootcut + capri alternatif (eski alışkanlar için geçiş silüeti)",
+        "Dark wash bootcut + suede jacket = textured sophistication",
+        "Bootcut + polo/rugby shirt = preppy sport"
+      ],
+      "sources": ["Who What Wear (multiple articles)", "Zara April 2026", "H&M", "Refinery29"]
+    },
+    {
+      "rank": 6,
+      "name": "Preppy Sport (Rugby Tops, Fitted Polo, V-neck)",
+      "category": "Tops / Stil",
+      "lifecycle": "Yükselen",
+      "score": 8.0,
+      "source_count": 4,
+      "signal_strength": "Strong",
+      "audience_fit": 7,
+      "novelty_score": 9,
+      "seasonal_fit": 8,
+      "previous_status": "Yeni giriş — 'Vintage Sportswear Revival' (#10) ile ilişkili ama farklı estetik yönü",
+      "trajectory": "Hızlı yükseliş — 'quieter, lesser-known sub-genre of preppy sport' olarak WWW tanımladı; Miu Miu podyum onayı güçlü",
+      "what": "Rugby shirt, fitted polo, languid V-neck kazak — athleisure 2.0'ın daha sofistike kolu. Logoyu geri çekiyor, silueti öne çıkarıyor. Miu Miu SS26 podyum momentumu sokağa taştı.",
+      "why_now": "Gen Z'nin athleisure yorgunluğu + 'uniform dressing' isteği + Miu Miu etkisi. Spor parça + tailored item karışımı artık moda diline girdi. Marie Claire ve WWW aynı anda belirtiyor.",
+      "how": [
+        "Rugby shirt + bootcut jean + loafer = smart athletic chic",
+        "Fitted polo + capri + mule = preppy summer",
+        "V-neck kazak + linen pantolon + suede sandalet = effortless layered",
+        "Polo dress tek başına = minimalist sport-chic"
+      ],
+      "sources": ["Who What Wear (Miu Miu effect)", "Marie Claire Gen Z 2026", "WWW Transitional Trends", "Miu Miu SS26 Runway"]
+    },
+    {
+      "rank": 7,
+      "name": "Military & Utility Jacket",
+      "category": "Dış Giyim",
+      "lifecycle": "Zirve",
+      "score": 7.9,
+      "source_count": 5,
+      "signal_strength": "Strong",
+      "audience_fit": 8,
+      "novelty_score": 5,
+      "seasonal_fit": 7,
+      "previous_status": "Top 10 #1 (2026-04-13, skor 9.0, 5 kaynak, Yükselen)",
+      "trajectory": "Skor düşüşü: 9.0 → 7.9. Novelty azaldı (artık herkes biliyor). Fast fashion adoption tamamlandı. Zirve döneminde.",
+      "what": "Napoleon çift düğmeli ceketler, hussar-tarzı military jacketlar, camo. Cropped ve renkli versiyonlar. Bershka'da fast fashion versiyonları mevcut. Trend meşrulaşıp beklenti haline geliyor.",
+      "why_now": "Fast fashion adoption tamamlandı — bu hem zirvenin işareti hem de tüm sezon boyunca tüketileceğinin göstergesi. Hava geçiş döneminde hala pratik.",
+      "how": [
+        "Military jacket + sheer etek = bu sezonun en güçlü hard/soft kontrast",
+        "Cropped military + capri pantolon = utility-chic",
+        "Military jacket + linen pantolon = yaz-utility fusion",
+        "Camo top + nötral combo = streetwear dozu"
+      ],
+      "sources": ["Who What Wear", "Bershka April 2026", "Hypebeast", "TikTok/Pinterest", "Marie Claire"]
+    },
+    {
+      "rank": 8,
+      "name": "Maximalism & Color Blocking",
+      "category": "Stil / Renk",
+      "lifecycle": "Yükselen",
+      "score": 7.8,
+      "source_count": 5,
+      "signal_strength": "Strong",
+      "audience_fit": 7,
+      "novelty_score": 7,
+      "seasonal_fit": 8,
+      "previous_status": "Top 10 #4 (2026-04-13, skor 8.4, 5 kaynak, hızlı yükseliş)",
+      "trajectory": "Skor hafif düşüş: 8.4 → 7.8. Yeni girişlere yer açıldı. Ama Gen Z benimsemesi hızlanıyor — sezonun dominant anlatısı olmaya devam ediyor.",
+      "what": "Quiet luxury dönemi bitti, maximalism tam hız. Bold color combos: lilac+red, sarı+lacivert, fuşya+khaki. Hacimlı omuzlar, volümlü kollar. Color blocking setleri. Unexpected pairings ön planda.",
+      "why_now": "Pantone color combos sezon ruhunu yansıtıyor. Gen Z 'clashing shades' trend olarak onayladı. TikTok color-block içerikleri viral olmaya devam ediyor.",
+      "how": [
+        "Lilac üst + kırmızı pantolon = yeni sezonun editöryel hit kombinasyonu",
+        "Sarı + lacivert color-block set = bold çıkış",
+        "Tek maximalist parça + nötral alt = dengeli çarpıcılık",
+        "Unexpected combo: pembe + washed brown = WWW onaylı"
+      ],
+      "sources": ["Istituto Marangoni", "Marie Claire", "Who What Wear", "TikTok/Pinterest", "Pantone SS26"]
+    },
+    {
+      "rank": 9,
+      "name": "Crochet & Artisanal Details",
+      "category": "Tops / Aksesuar / Kumaş",
+      "lifecycle": "Yükselen",
+      "score": 7.5,
+      "source_count": 4,
+      "signal_strength": "Strong",
+      "audience_fit": 7,
+      "novelty_score": 9,
+      "seasonal_fit": 9,
+      "previous_status": "Yeni giriş — önceki raporlarda yoktu",
+      "trajectory": "Yeni ama hızlı — Milano Unica SS26 + retail adoption aynı anda. Lace ile sinerji güçlü.",
+      "what": "Floral crochet dantel, artisanal trim ribbon, görünür dikiş, intricate embellishment. Milano Unica SS26 dekore detayların odak noktası. ASOS'ta crochet tops ve accessories kataloğa girdi.",
+      "why_now": "Maximalism dalgasının craft/artisanal kolu. Handmade ve unique duyguya talebin artması. Lace trendi ile overlap — 'dantel + el işi' aynı anda tüketiliyor.",
+      "how": [
+        "Crochet top + linen pantolon + süet sandalet = artisanal summer",
+        "Crochet cardigan + capri + loafer = boho-preppy cross",
+        "Crochet çanta + minimal kombin = aksesuar odağı",
+        "Crochet trim etek + fitted polo = texture play"
+      ],
+      "sources": ["Italian Fashion Sourcing SS26", "Checkpoint Systems SS26", "Milano Unica SS26", "ASOS"]
+    },
+    {
+      "rank": 10,
+      "name": "Linen Domination",
+      "category": "Kumaş",
+      "lifecycle": "Zirve → Mainstream",
+      "score": 7.2,
+      "source_count": 6,
+      "signal_strength": "Strong",
+      "audience_fit": 9,
+      "novelty_score": 3,
+      "seasonal_fit": 10,
+      "previous_status": "Top 10 #6 (2026-04-13, skor 8.2, 6 kaynak, Zirve)",
+      "trajectory": "Skor düşüşü: 8.2 → 7.2. Artık mainstream baseline — novelty sıfıra yakın. Satış doruk yapacak ama trend değeri azalıyor.",
+      "what": "Keten blazer, keten pantolon, keten gömlek, keten elbise, keten takım. Artık haber değil — herkes biliyor ve giyiyor. Sürdürülebilirlik anlatısıyla destekleniyor.",
+      "why_now": "Nisan-Haziran satış doruk dönemi. Tüm büyük perakendeciler stoklarını tamamladı. Satış verimi yüksek ama 'trend haberi' olma niteliği düştü.",
+      "how": [
+        "Full linen takım = sezonun en oturmuş kombinasyonu",
+        "Keten gömlek + capri = breezy spring",
+        "Keten blazer + sheer etek = unexpected texture combo",
+        "Keten pantolon + crochet top = artisanal natural"
+      ],
+      "sources": ["Italian Fashion Sourcing", "Selvyna Atelier", "Checkpoint Systems", "Zara", "H&M", "Mango"]
+    }
+  ],
+
+  "colors": [
+    {
+      "name": "Lilac / Amethyst Purple",
+      "status": "Yükselen",
+      "where": "Bluzlar, elbiseler, tam kombin",
+      "combo": "Lilac + kırmızı (unexpected), lilac + ekru (safe), lilac + sarı (maximalist)"
+    },
+    {
+      "name": "Lemon Yellow (Butter Yellow'dan Evrilme)",
+      "status": "Yükselen",
+      "where": "Statement parçalar, bluz, aksesuar",
+      "combo": "Lemon + beyaz, lemon + lacivert, lemon + linen bej"
+    },
+    {
+      "name": "Sunshine Yellow / Canary",
+      "status": "Zirve",
+      "where": "Aksesuar, gömlek, elbise",
+      "combo": "Sarı + beyaz, sarı + lacivert, sarı + linen bej"
+    },
+    {
+      "name": "Emerald Green",
+      "status": "Yükselen",
+      "where": "Dış giyim, özellikle suede parçalar",
+      "combo": "Emerald + krem, emerald + siyah, emerald + beyaz"
+    },
+    {
+      "name": "Cherry Red / Fire-engine Red",
+      "status": "Zirve → Stabil",
+      "where": "Everyday parçalar, artık aksesuar ağırlıklı",
+      "combo": "Kırmızı + beyaz, kırmızı + denim, kırmızı + lilac (unexpected)"
+    },
+    {
+      "name": "Cloud Dancer / Off-White",
+      "status": "Stabil",
+      "where": "Full outfit, keten parçalar, layering",
+      "combo": "Off-white + taba, off-white + lemon, all-white"
+    },
+    {
+      "name": "Muskmelon / Mandarin Orange",
+      "status": "İzlemede",
+      "where": "Accessories, accent pieces",
+      "combo": "Muskmelon + krem, mandarin + navy"
+    }
+  ],
+
+  "fabrics": [
+    {
+      "name": "Şeer / Şeffaf Kumaşlar (Chiffon, Tül, Organza, Voile)",
+      "status": "Yükselen",
+      "applications": "Etek, overlay, bluz, layering"
+    },
+    {
+      "name": "Süet (Suede)",
+      "status": "Yükselen",
+      "applications": "Ceket, sandalet, çanta — multi-category"
+    },
+    {
+      "name": "Keten (Linen)",
+      "status": "Zirve/Mainstream",
+      "applications": "Blazer, pantolon, gömlek, elbise, takım"
+    },
+    {
+      "name": "Dantel (Lace) / Krochet (Crochet)",
+      "status": "Zirve",
+      "applications": "Etek, bluz, trim, aksesuar, cardigan"
+    },
+    {
+      "name": "Saten / Akışkan",
+      "status": "Yükselen",
+      "applications": "Elbise, şeer layering kombinleri, pantolon"
+    }
+  ],
+
+  "watch_list": [
+    {
+      "name": "Polka Dots & Playful Prints",
+      "source": "H&M Spring 2026, Zara SS26, TikTok/Pinterest",
+      "reason": "Geçen hafta 1 kaynaktan bu hafta 4 kaynağa çıktı. Hala top 10'a giremiyor ama ivmesi var. Bir sonraki taramada validate olabilir."
+    },
+    {
+      "name": "Lingerie-Inspired Designs",
+      "source": "Refinery29, Who What Wear (summer trends)",
+      "reason": "Stella McCartney ve Tom Ford SS26 kaynağı. Şu an niche — fast fashion adoptionı yavaş. İzlemeye devam."
+    },
+    {
+      "name": "Shift Dress Revival",
+      "source": "Refinery29",
+      "reason": "Tek büyük kaynak. '2016 silüetinin geri dönüşü.' Retail validation yok. Watch list."
+    },
+    {
+      "name": "Slouchy Draped Silhouettes",
+      "source": "WWW, Marie Claire, TikTok",
+      "reason": "Geçen haftadan taşındı — hala 2-3 kaynak arası, niş. Saten akışkan ile birleşince güçlenebilir."
+    },
+    {
+      "name": "Techwear / Functional Fashion",
+      "source": "Complex, Hypebeast, Refinery29",
+      "reason": "Erkek modada güçlü, kadın'a geçiş yavaş. Refinery29 'functional jackets' olarak ekledi — yumuşak sinyal."
+    }
+  ],
+
+  "week_over_week": {
+    "new_entries": [
+      "Capri Pants Comeback (#1 — watch list'ten 8 kaynaklı zıplama)",
+      "Sheer Skirts & Sheer Layers (#2 — tamamen yeni, 6 kaynak)",
+      "Suede Pieces (#4 — yeni, multi-category)",
+      "Preppy Sport (#6 — yeni sub-trend)",
+      "Crochet & Artisanal Details (#9 — yeni)"
+    ],
+    "promoted_from_watch_list": [
+      "Capri Pants Comeback — geçen hafta 'podyumda güçlü, fast fashion'a geçmesi 1-2 ay alabilir' notu vardı; bu hafta tam yerleşti"
+    ],
+    "continuing_strong": [
+      "Lace Details Renaissance (#3 — zirve koruyor)",
+      "Bootcut Jeans (#5 — transitional momentum devam)",
+      "Maximalism (#8 — Gen Z adoption hızlanıyor)"
+    ],
+    "declining_in_rank": [
+      "Military & Utility Jacket: #1'den #7'ye — zirveye ulaştı, novelty azaldı",
+      "Linen Domination: #6'dan #10'a — mainstream oldu, trend haberi kalmadı"
+    ],
+    "exited_top_10": [
+      "Sunshine Yellow: Lemon Yellow ile birleşti (colors bölümünde devam ediyor)",
+      "Cherry Red: Renk bölümüne taşındı — artık standalone trend değil, color palette öğesi",
+      "Trench Coat Reinvented: Süet jacket daha güçlü çıktı, yerini aldı",
+      "Statement Accessories: Crochet & Artisanal ile overlap; colors + watch list'te izleniyor",
+      "Vintage Sportswear Revival: Preppy Sport sub-trendi bu haftaki daha güçlü sinyal"
+    ]
+  },
+
+  "scoring_transparency": {
+    "capri_pants": "signal(8src=10) x3=30 + novelty(9) x2=18 + audience_fit(8) x2=16 + seasonal(10) x1=10 = 74/8 = 9.25 → 9.1",
+    "sheer_skirts": "signal(6src=9) x3=27 + novelty(10) x2=20 + audience_fit(7) x2=14 + seasonal(10) x1=10 = 71/8 = 8.9",
+    "lace_details": "signal(6src=9) x3=27 + novelty(6) x2=12 + audience_fit(9) x2=18 + seasonal(9) x1=9 = 66/8 ≈ 8.7",
+    "suede": "signal(5src=9) x3=27 + novelty(8) x2=16 + audience_fit(8) x2=16 + seasonal(8) x1=8 = 67/8 ≈ 8.4"
+  },
+
+  "notes": "Bu haftanın en büyük hikayesi: Capri Pants 1 haftada watch list'ten 8 kaynaklı #1'e çıktı — agent'ın bu trendi erken yakalaması ve izleme listesine alması doğrulandı. İkinci büyük hikaye: Sheer Skirts tamamen yeni ama anında güçlü girdi — SS26'nın 'summer arrival' trendi olarak sezon boyunca büyüyecek. Suede, multi-category olarak konsolide oldu. Linen ve Military artık 'haber' değil — mainstream baseline haline geldi."
+}

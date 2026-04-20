@@ -1,0 +1,314 @@
+{
+  "scan_date": "2026-04-20",
+  "scan_time": "09:00 UTC",
+  "period": "14-20 Nisan 2026",
+  "cycle": "4. tarama döngüsü",
+  "previous_scan": "2026-04-13",
+  "sources_scanned": 15,
+  "sources_accessible": 13,
+  "sources_inaccessible": ["Shein (403)", "TikTok (JS-heavy, partial data)"],
+
+  "tier1_retail": {
+    "zara": {
+      "status": "accessible",
+      "url": "https://www.whowhatwear.com/fashion/trends/zara-spring-trends-april-2026",
+      "signals": [
+        "Lace-trimmed shorts, dresses, skirts, tops — lace still dominant",
+        "Trench coats with funnel-neck collars — renkli versiyonlar",
+        "Fresh bootcut cuts in new colorways",
+        "Linen-infused lightweight jackets",
+        "Polka dot prints — H&M ile birlikte validation alıyor",
+        "Baloon sleeve blouses with delicate lacework"
+      ]
+    },
+    "hm": {
+      "status": "partial (editorial coverage)",
+      "url": "https://www.whowhatwear.com/fashion/dresses/best-hm-spring-dresses-2026",
+      "signals": [
+        "Soft draping, playful polka dots, quietly romantic florals",
+        "Effortlessly wearable linen dresses",
+        "Sheer overlay on spring dresses",
+        "Bootcut jeans in fresh washes"
+      ]
+    },
+    "bershka": {
+      "status": "accessible",
+      "signals": [
+        "Military cropped jackets — fast fashion adoption confirmed",
+        "Capri pants in solid colors and prints",
+        "Lace-detail tops and sets"
+      ]
+    },
+    "mango": {
+      "status": "accessible",
+      "url": "https://shop.mango.com/tr/tr/h/kadin",
+      "signals": [
+        "Suede sandals leading accessories",
+        "Woven bags — bigger and softer",
+        "Romantic blouse styles with frills and delicate detailing",
+        "Bootcut and straight-leg denim"
+      ]
+    }
+  },
+
+  "tier2_mainstream": {
+    "asos": {
+      "status": "accessible",
+      "signals": [
+        "Sheer skirts — strong debut across multiple listings",
+        "Suede jackets and suede shoes",
+        "Capri pants in elevated cuts",
+        "Crochet tops and accessories"
+      ]
+    },
+    "trendyol": {
+      "status": "accessible",
+      "url": "https://www.trendyol.com/mango-kadin-x-b41-g1",
+      "signals": [
+        "Mango keten takımlar yeni sezon",
+        "Koton yeni sezon kadın — floral ve dantel detay",
+        "Trençkot yeni gelenler",
+        "Capri pantolon artan liste sayısı"
+      ]
+    }
+  },
+
+  "tier3_editorial": {
+    "who_what_wear": {
+      "status": "accessible",
+      "urls": [
+        "https://www.whowhatwear.com/fashion/trends/spring-summer-2026-fashion-trends",
+        "https://www.whowhatwear.com/fashion/trends/spring-to-summer-transitional-trends",
+        "https://www.whowhatwear.com/fashion/summer/summer-2026-trends-to-wear-now",
+        "https://www.whowhatwear.com/fashion/spring/gen-z-versus-millennial-fashion-trends-spring-2026"
+      ],
+      "signals": [
+        "Sheer skirts: 'no escaping that 2026 is the year of the sheer skirt'",
+        "Suede jackets: 'one of the most covetable spring pieces'",
+        "Capri pants: 'already getting Nordstrom coverage'",
+        "Preppy sport: rugby tops, fitted polos, languid V-necks (Miu Miu effect)",
+        "Bootcut jeans: still dominant, transitional styling confirmed",
+        "Lace shirts: 'five chic easy spring trends'",
+        "Lilac/purple: 'Quality Shade purple was early 2026, lilac will be huge in spring'",
+        "Unexpected color combos: lilac+red, pink+washed brown, Tiffany blue+emerald green",
+        "Culottes / below-knee-but-not-capris cut: 'cool-girl bottoms'"
+      ]
+    },
+    "refinery29": {
+      "status": "accessible",
+      "url": "https://www.refinery29.com/en-us/spring-2026-fashion-trends",
+      "signals": [
+        "Capri pants: '5 cute outfit ideas' feature = reaching mainstream",
+        "Shift dresses: '2016 shapeless shift dress resurgence'",
+        "Lingerie-inspired designs: Stella McCartney, Tom Ford",
+        "Military/Napoleon double-breasted jackets",
+        "Functional fashion: weather-resistant designer jackets"
+      ]
+    },
+    "marie_claire": {
+      "status": "accessible",
+      "url": "https://www.marieclaire.com/fashion/gen-z-fashion-trends-2026/",
+      "signals": [
+        "Gen Z 2010s revival + uniform dressing",
+        "Vintage sportswear — still growing",
+        "Athleisure shifting to 'athletic essentials + tailored items'",
+        "Gen Z fatigue with micro-trends — leaning to intentional dressing"
+      ]
+    },
+    "hypebeast_complex": {
+      "status": "accessible",
+      "urls": [
+        "https://hypebeast.com/tags/spring-summer-2026",
+        "https://www.complex.com/style/a/mike-destefano/10-fashion-trends-we-think-will-run-streetwear-2026"
+      ],
+      "signals": [
+        "Subtle branding overtaking loud logos",
+        "Vintage 2000s BAPE pieces appreciating",
+        "Graphic-heavy punk-inspired streetwear (Hellstar)",
+        "Techwear: still growing in men's, slow in women's",
+        "Plaid/check prints prominent in street style",
+        "Polka dots + plaid mix for eclectic look"
+      ]
+    },
+    "highsnobiety": {
+      "status": "accessible",
+      "url": "https://www.highsnobiety.com/",
+      "signals": [
+        "Graphics declared 'back' in streetwear",
+        "Skater aesthetic rising",
+        "Bold red fits prominent in spring streetwear"
+      ]
+    }
+  },
+
+  "tier5_web_search": {
+    "queries": [
+      "fashion trends 2026 spring summer",
+      "gen z fashion trends this week April 2026",
+      "streetwear trends 2026 spring new",
+      "color trends fashion April 2026",
+      "fabric material trends SS26 linen satin crochet"
+    ],
+    "additional_signals": [
+      "Capri pants: Hola, RunwayLive, TheApparelFactory all publishing styling guides — mainstream adoption",
+      "Sheer skirts: Dries Van Noten fringe, Calvin Klein tailored, Prada sheer layering all cited",
+      "Suede: 'repeat trend from last year sticking around' — bags, shoes, jackets, skirts",
+      "Crochet & artisanal: Milano Unica SS26 confirms floral crochet lace and artisanal trims",
+      "Linen: still dominating — linen shirting, linen suiting with wool, organic cotton-linen blends",
+      "Color: Amethyst Orchid, Burnished Lilac (purple family) very strong — NYFW + Pantone backed",
+      "Color: Lemon yellow replacing butter yellow (Balenciaga, Miu Miu, Loewe)",
+      "Color: Emerald green in outerwear emerging",
+      "Color: Muskmelon/Mandarin orange — new entry from Pantone SS26",
+      "Preppy sport: Miu Miu rugby tops, fitted polos — 'quieter sub-genre of preppy'",
+      "Lingerie-inspired: Stella McCartney, Tom Ford — still niche, but growing",
+      "Shift dress: 2016 silhouette resurgence — Refinery29 naming it",
+      "Animal prints: TikTok/Pinterest signal — not yet retail validated"
+    ]
+  },
+
+  "raw_trend_signals": [
+    {
+      "signal": "Capri Pants Comeback",
+      "sources": ["Versace SS26", "Ralph Lauren SS26", "Isabel Marant SS26", "Refinery29", "Who What Wear", "Hola", "RunwayLive", "Nordstrom April 2026"],
+      "source_count": 8,
+      "category": "Bottoms",
+      "previous_status": "Watch List (2026-04-13)",
+      "movement": "Watch List → Main List"
+    },
+    {
+      "signal": "Sheer Skirts / Sheer Layers",
+      "sources": ["Who What Wear (multiple articles)", "ASOS", "Dries Van Noten SS26", "Calvin Klein SS26", "Prada SS26", "Refinery29"],
+      "source_count": 6,
+      "category": "Bottoms / Layering",
+      "previous_status": "Not tracked",
+      "movement": "New emergence — immediate Strong signal"
+    },
+    {
+      "signal": "Suede Pieces (Jacket, Shoes, Bag)",
+      "sources": ["Who What Wear", "ASOS", "Mango", "Selvyna Atelier SS26 Report", "Champagne & Savings 2026"],
+      "source_count": 5,
+      "category": "Outerwear / Accessories / Footwear",
+      "previous_status": "Not tracked (mention as 'suede bomber' niche)",
+      "movement": "Validated — Medium-Strong"
+    },
+    {
+      "signal": "Preppy Sport (Rugby tops, Fitted Polo, V-neck)",
+      "sources": ["Who What Wear (Miu Miu effect article)", "Marie Claire Gen Z article", "WhatsWear transitional trends"],
+      "source_count": 3,
+      "category": "Tops / Style",
+      "previous_status": "Watch List adjacent (Vintage Sportswear Revival was in top 10)",
+      "movement": "Emerging — new sub-trend of Vintage Sportswear Revival"
+    },
+    {
+      "signal": "Crochet & Artisanal Details",
+      "sources": ["Italian Fashion Sourcing SS26", "Checkpoint Systems SS26", "Milano Unica SS26", "ASOS"],
+      "source_count": 4,
+      "category": "Tops / Accessories / Fabric",
+      "previous_status": "Not tracked",
+      "movement": "New — Medium signal"
+    },
+    {
+      "signal": "Polka Dots & Playful Prints",
+      "sources": ["H&M Spring 2026", "Zara SS26", "Hypebeast/Complex street style", "TikTok/Pinterest"],
+      "source_count": 4,
+      "category": "Prints / Style",
+      "previous_status": "Watch List (2026-04-13) — was 1 source (Zara only)",
+      "movement": "Watch List → Medium signal (2+ retail + social)"
+    },
+    {
+      "signal": "Military & Utility Jacket",
+      "sources": ["Who What Wear", "Bershka new arrivals", "Hypebeast", "TikTok/Pinterest", "Marie Claire"],
+      "source_count": 5,
+      "category": "Outerwear",
+      "previous_status": "Top 10 #1 (2026-04-13, score 9.0, 5 sources)",
+      "movement": "Continuing — fast fashion adoption confirmed"
+    },
+    {
+      "signal": "Lace Details Renaissance",
+      "sources": ["Zara April 2026", "Who What Wear easy spring trends", "H&M new arrivals", "Mango", "ASOS", "Refinery29"],
+      "source_count": 6,
+      "category": "Detail / Tops / Bottoms",
+      "previous_status": "Top 10 #2 (2026-04-13, score 9.0, 6 sources)",
+      "movement": "Continuing — now ubiquitous in fast fashion"
+    },
+    {
+      "signal": "Bootcut Jeans Comeback",
+      "sources": ["Who What Wear (multiple)", "Zara April", "H&M", "Refinery29"],
+      "source_count": 5,
+      "category": "Bottoms",
+      "previous_status": "Top 10 #3 (2026-04-13, score 8.6, 5 sources)",
+      "movement": "Continuing — transitional styling articles growing"
+    },
+    {
+      "signal": "Maximalism & Color Blocking",
+      "sources": ["Istituto Marangoni", "Marie Claire", "Who What Wear", "TikTok/Pinterest", "Streetwear sources"],
+      "source_count": 5,
+      "category": "Style / Color",
+      "previous_status": "Top 10 #4 (2026-04-13, score 8.4, 5 sources)",
+      "movement": "Continuing — Gen Z alignment confirmed"
+    },
+    {
+      "signal": "Linen Domination",
+      "sources": ["Italian Fashion Sourcing", "Selvyna Atelier", "Checkpoint Systems", "Zara", "H&M", "Mango"],
+      "source_count": 6,
+      "category": "Fabric",
+      "previous_status": "Top 10 #6 (2026-04-13, score 8.2, 6 sources, Peak)",
+      "movement": "Continuing — stable peak, now mainstream baseline"
+    },
+    {
+      "signal": "Lilac / Amethyst Purple",
+      "sources": ["Who What Wear (multiple)", "Pantone SS26 report", "NYFW coverage", "Wunderlabel color report"],
+      "source_count": 4,
+      "category": "Color",
+      "previous_status": "Not separately tracked (Bold Color Clash group)",
+      "movement": "New breakout — strongest new color signal this week"
+    },
+    {
+      "signal": "Lemon Yellow (replacing Butter Yellow)",
+      "sources": ["Balenciaga SS26", "Miu Miu SS26", "Loewe SS26", "Who What Wear color trends"],
+      "source_count": 4,
+      "category": "Color",
+      "previous_status": "Sunshine Yellow was #5 last week — now shifting to brighter lemon tone",
+      "movement": "Evolution of Sunshine Yellow toward sharper lemon"
+    },
+    {
+      "signal": "Sunshine Yellow",
+      "sources": ["Who What Wear", "Pantone", "Tory Burch", "Lanvin"],
+      "source_count": 4,
+      "category": "Color",
+      "previous_status": "Top 10 #5 (2026-04-13, score 8.2, 4 sources)",
+      "movement": "Continuing — merging with Lemon Yellow signal"
+    },
+    {
+      "signal": "Cherry Red Continuation",
+      "sources": ["Who What Wear", "Highsnobiety bold red", "Marie Claire", "Prada"],
+      "source_count": 3,
+      "category": "Color",
+      "previous_status": "Top 10 #7 (2026-04-13, score 7.8, 4 sources, Peak→Slowing)",
+      "movement": "Continuing but decelerating"
+    },
+    {
+      "signal": "Lingerie-Inspired Designs",
+      "sources": ["Refinery29", "Who What Wear (summer trends)"],
+      "source_count": 2,
+      "category": "Style / Tops",
+      "previous_status": "Not tracked",
+      "movement": "Weak — watch list candidate"
+    },
+    {
+      "signal": "Shift Dress Revival",
+      "sources": ["Refinery29"],
+      "source_count": 1,
+      "category": "Dresses",
+      "previous_status": "Not tracked",
+      "movement": "Weak — single source, watch list only"
+    }
+  ],
+
+  "inaccessible_sources": [
+    {"source": "Shein", "reason": "403 error", "action": "Used editorial coverage as proxy"},
+    {"source": "TikTok (direct)", "reason": "JS-heavy, partial data", "action": "Used Who What Wear TikTok trend roundup"}
+  ],
+
+  "scan_notes": "Bu haftanın en büyük hareketi: Capri Pants watch list'ten 8 kaynaklı Strong sinyal'e yükseldi. Sheer Skirts tamamen yeni bir trend olarak güçlü sinyal veriyor (6 kaynak). Suede multi-category (jacket, shoes, bag) olarak konsolide oluyor. Lilac/Purple rengi bağımsız bir trend sinyali haline geldi. Linen artık haber değil — mainstream baseline."
+}
